@@ -9,4 +9,4 @@
 
 Список:
 
-* [Ящик для экспонирования ФОТОРЕЗИСТА](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist)
+Box For Exposure Photoresist - [Ящик для экспонирования ФОТОРЕЗИСТА](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist)
