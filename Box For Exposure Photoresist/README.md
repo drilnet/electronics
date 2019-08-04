@@ -31,7 +31,7 @@
 
 <div align="center">
 <a href="https://github.com/drilnet/electronics">
-[Вернуться в начало репозитория Electronics]
+[ Вернуться в начало репозитория Electronics ]
 </a>
 </div>
 
