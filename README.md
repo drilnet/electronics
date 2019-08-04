@@ -7,6 +7,6 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
-Список:
+**Список:**
 
 Box For Exposure Photoresist - [Ящик для экспонирования ФОТОРЕЗИСТА](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist)
