@@ -27,4 +27,10 @@
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
 
-<p align="center">[Вернуться в начало репозитория Electronics](https://github.com/drilnet/electronics)</p>
+<hr>
+
+<div style="text-align:center">
+[Вернуться в начало репозитория Electronics](https://github.com/drilnet/electronics)
+</div>
+
+<hr>
