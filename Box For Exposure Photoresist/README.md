@@ -1,8 +1,8 @@
-Репозиторий: Электроника (всё в одном репозитории)
-   * Ящик для экспонирования фоторезиста
+# Hobby
+[GITHUB](https://github.com) - РњРѕСЏ Р·Р°РїРёСЃРЅР°СЏ РєРЅРёР¶РєР° (РЅР°Р±СЂРѕСЃРєРё, Р·Р°РјРµС‚РєРё Рё С‚.Рґ. Рё С‚.Рї.)!
 
-Photoresist.Exposure.Box
+<hr>
 
-electronics
+## РЇС‰РёРє РґР»СЏ СЌРєСЃРїРѕРЅРёСЂРѕРІР°РЅРёСЏ Р¤РћРўРћР Р•Р—РРЎРўРђ
 
-Box For Exposure Photoresist
+![](https://github.com/drilnet/electronics/blob/master/UA.png)
