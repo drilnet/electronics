@@ -25,9 +25,7 @@
 
 **Удачного экспонирования!**
 
-[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
-<br>
-:)
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
 
 <hr>
 
