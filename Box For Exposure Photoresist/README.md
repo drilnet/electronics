@@ -29,10 +29,10 @@
 
 <hr>
 
-<span align="center">
+<div align="center">
 <a href="https://github.com/drilnet/electronics">
 [Вернуться в начало репозитория Electronics]
 </a>
-</span>
+</div>
 
 <hr>
