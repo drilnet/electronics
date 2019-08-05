@@ -55,9 +55,9 @@ Box For Exposure Photoresist - [Ящик для экспонирования Ф�
 
 Форум по русскому языку: [https://rusforus.ru](https://rusforus.ru)
 <br>
-Грамматика на PROMT Онлайн: https://www.translate.ru/grammar/ru-es/
+Грамматика на PROMT Онлайн: [https://www.translate.ru/grammar](https://www.translate.ru/grammar)
 <br>
-Проверка слова (и др.): http://new.gramota.ru
+Проверка слова (и др.): [http://new.gramota.ru](http://new.gramota.ru)
 
 <hr>
 
