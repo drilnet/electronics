@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.7">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="26.931968503937" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="4" DFONT="Liberation Mono Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="Demidov S.V." COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="9" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="1" DPSo="0" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Russian" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="7.08661417322835" MAJGRID="59.5275590551181" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="0" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#005500" MAJORC="#00aa00" GuideC="#000080" BaseC="#202020" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Нет" RGB="#966432" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Liberation Mono Bold Italic" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Russian"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Фон" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="1" mirrorV="0" useICC="1" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="4.84561982900746e-309" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="2" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="600" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="1" openAction="">
+            <DocFonts Name="Liberation Mono Bold"/>
+            <DocFonts Name="Liberation Mono Bold Italic"/>
+            <DocFonts Name="Liberation Mono Regular"/>
+            <Subset Name="Liberation Mono Bold"/>
+            <Subset Name="Liberation Mono Bold Italic"/>
+            <Subset Name="Liberation Mono Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="26.931968503937" NUM="0" NAM="Обычная" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="26.931968503937" NUM="0" NAM="" MNAM="Обычная" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="901.89094488189" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="26.931968503937" NUM="1" NAM="" MNAM="Обычная" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="128.34708661126" YPOS="62.5209448825177" WIDTH="538.5826772" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="128.34708661126" YPOS="820.788661442518" WIDTH="255.1181102" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="135.43370079126" YPOS="48.3477165325181" WIDTH="786.6141732" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="389.13448822126" YPOS="812.426456742519" WIDTH="17.00787402" HEIGHT="17.00787402" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="10" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0.5669291339" TEXTRA="5.102362205" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno" FONT="Liberation Mono Bold" FONTSIZE="10" FCOLOR="White" FSHADE="100"/>
+            <trail ALIGN="1" LINESPMode="0" LINESP="10" OpticalMargins="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="411.81165352126" YPOS="820.788661442518" WIDTH="255.1181102" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="659.84314962126" YPOS="48.3477165325181" WIDTH="786.6141732" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="135.43370079126" YPOS="820.788661442518" WIDTH="248.0314961" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="4.251968504" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 248.031 0 248.031 0 248.031 0 248.031 0 248.031 14.1732 248.031 14.1732 248.031 14.1732 248.031 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 248.031 0 248.031 0 248.031 0 248.031 0 248.031 14.1732 248.031 14.1732 248.031 14.1732 248.031 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="0000 0001 0010 0011 0100 0101 0110 0111 1000"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="411.81165352126" YPOS="820.788661442518" WIDTH="248.0314961" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="4.251968504" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 248.031 0 248.031 0 248.031 0 248.031 0 248.031 14.1732 248.031 14.1732 248.031 14.1732 248.031 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 248.031 0 248.031 0 248.031 0 248.031 0 248.031 14.1732 248.031 14.1732 248.031 14.1732 248.031 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="1001 1010 1011 1100 1101 1110 1111 0000 0001"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="121.26047244126" YPOS="820.788661417323" WIDTH="460.629921259843" HEIGHT="21.25984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="3.543307087" TEXTRA="7.795275591" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 460.63 0 460.63 0 460.63 0 460.63 0 460.63 21.2598 460.63 21.2598 460.63 21.2598 460.63 21.2598 0 21.2598 0 21.2598 0 21.2598 0 21.2598 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 460.63 0 460.63 0 460.63 0 460.63 0 460.63 21.2598 460.63 21.2598 460.63 21.2598 460.63 21.2598 0 21.2598 0 21.2598 0 21.2598 0 21.2598 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="6" CH="Вёрстка материала: Демидов С.В. Написать мне можно на: stdls@mail.ru, bbarsinov@gmail.com   Сайт: https://drilnet.github.io"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="135.43370079126" YPOS="48.3477165325181" WIDTH="524.4094488" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="4.251968504" BEXTRA="4.251968504" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 524.409 0 524.409 0 524.409 0 524.409 0 524.409 14.1732 524.409 14.1732 524.409 14.1732 524.409 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 524.409 0 524.409 0 524.409 0 524.409 0 524.409 14.1732 524.409 14.1732 524.409 14.1732 524.409 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="0000 0001 0010 0011 0100 0101 0110 0111 1000 1001 1010 1011 1100 1101 1110 1111 0000 0001 0010 0011"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="143.93763779126" YPOS="72.1587401574776" WIDTH="510.2362205" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="10" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="2.1259842519685" BEXTRA="2.1259842519685" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510.236 0 510.236 0 510.236 0 510.236 0 510.236 14.1732 510.236 14.1732 510.236 14.1732 510.236 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510.236 0 510.236 0 510.236 0 510.236 0 510.236 14.1732 510.236 14.1732 510.236 14.1732 510.236 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="10" CH="Схема TEA2025B (стерео) с нестабилизированным источником питания"/>
+            <trail ALIGN="1" LINESPMode="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="161.512440944882" YPOS="293.544566929134" WIDTH="226.771653543307" HEIGHT="42.5196850393701" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Regular" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 226.772 0 226.772 0 226.772 0 226.772 0 226.772 42.5197 226.772 42.5197 226.772 42.5197 226.772 42.5197 0 42.5197 0 42.5197 0 42.5197 0 42.5197 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 226.772 0 226.772 0 226.772 0 226.772 0 226.772 42.5197 226.772 42.5197 226.772 42.5197 226.772 42.5197 0 42.5197 0 42.5197 0 42.5197 0 42.5197 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" CH="   Примечание."/>
+            <para LINESP="7"/>
+            <ITEXT CH="   Резистор "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="R1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="R2"/>
+            <ITEXT CH=" - сдвоенный переменный резистор."/>
+            <para LINESP="7"/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="R3*"/>
+            <ITEXT CH=" и "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="R4*"/>
+            <ITEXT CH=" - R=U/I, 9В / 0.010А = 900 Ом (я взял "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="820"/>
+            <ITEXT CH=" Ом)."/>
+            <para ALIGN="0" LINESP="7"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="6" CH="   Более подробно смотрите даташит по "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="6" CH="TEA2025B"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="6" CH="."/>
+            <para ALIGN="0" LINESP="7"/>
+            <para ALIGN="0" LINESP="7"/>
+            <ITEXT CH="   Схему начертил: "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="Демидов С.В."/>
+            <para ALIGN="0" LINESP="7"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="164.347086614173" YPOS="92.2847244094488" WIDTH="468.24" HEIGHT="194.64" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Изображения - схема, печатная плата 300dpi/TEA2025B. Схема.png" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 468.24 0 468.24 0 468.24 0 468.24 0 468.24 194.64 468.24 194.64 468.24 194.64 468.24 194.64 0 194.64 0 194.64 0 194.64 0 194.64 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 468.24 0 468.24 0 468.24 0 468.24 0 468.24 194.64 468.24 194.64 468.24 194.64 468.24 194.64 0 194.64 0 194.64 0 194.64 0 194.64 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="544.175478065242" YPOS="202.646929133863" WIDTH="64.32" HEIGHT="51.84" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Изображения - корпус микросхемы/Корпус DIP 16 (TEA2025B, плюс нумерация выводов).png" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 64.32 0 64.32 0 64.32 0 64.32 0 64.32 51.84 64.32 51.84 64.32 51.84 64.32 51.84 0 51.84 0 51.84 0 51.84 0 51.84 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 64.32 0 64.32 0 64.32 0 64.32 0 64.32 51.84 64.32 51.84 64.32 51.84 64.32 51.84 0 51.84 0 51.84 0 51.84 0 51.84 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="224.016377952757" YPOS="367.245354330709" WIDTH="166.56" HEIGHT="209.52" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Изображения - схема, печатная плата 300dpi/TEA2025B. Расположения компонентов 1.png" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 166.56 0 166.56 0 166.56 0 166.56 0 166.56 209.52 166.56 209.52 166.56 209.52 166.56 209.52 0 209.52 0 209.52 0 209.52 0 209.52 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 166.56 0 166.56 0 166.56 0 166.56 0 166.56 209.52 166.56 209.52 166.56 209.52 166.56 209.52 0 209.52 0 209.52 0 209.52 0 209.52 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="405.433700787402" YPOS="367.245354330709" WIDTH="166.56" HEIGHT="209.52" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Изображения - схема, печатная плата 300dpi/TEA2025B. Расположения компонентов 2.png" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 166.56 0 166.56 0 166.56 0 166.56 0 166.56 209.52 166.56 209.52 166.56 209.52 166.56 209.52 0 209.52 0 209.52 0 209.52 0 209.52 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 166.56 0 166.56 0 166.56 0 166.56 0 166.56 209.52 166.56 209.52 166.56 209.52 166.56 209.52 0 209.52 0 209.52 0 209.52 0 209.52 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="314.725039370079" YPOS="584.095748031496" WIDTH="166.56" HEIGHT="209.52" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Изображения - схема, печатная плата 300dpi/TEA2025B. Печатная плата.png" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 166.56 0 166.56 0 166.56 0 166.56 0 166.56 209.52 166.56 209.52 166.56 209.52 166.56 209.52 0 209.52 0 209.52 0 209.52 0 209.52 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 166.56 0 166.56 0 166.56 0 166.56 0 166.56 209.52 166.56 209.52 166.56 209.52 166.56 209.52 0 209.52 0 209.52 0 209.52 0 209.52 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="143.93763779126" YPOS="345.985511811024" WIDTH="510.2362205" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="3.40157480314961" BEXTRA="3.40157480314961" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510.236 0 510.236 0 510.236 0 510.236 0 510.236 14.1732 510.236 14.1732 510.236 14.1732 510.236 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510.236 0 510.236 0 510.236 0 510.236 0 510.236 14.1732 510.236 14.1732 510.236 14.1732 510.236 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="10" CH="Печатная плата"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="326.772283464567" YPOS="800.946141732284" WIDTH="130.677165354331" HEIGHT="8.50393700787402" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Regular" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 130.677 0 130.677 0 130.677 0 130.677 0 130.677 8.50394 130.677 8.50394 130.677 8.50394 130.677 8.50394 0 8.50394 0 8.50394 0 8.50394 0 8.50394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 130.677 0 130.677 0 130.677 0 130.677 0 130.677 8.50394 130.677 8.50394 130.677 8.50394 130.677 8.50394 0 8.50394 0 8.50394 0 8.50394 0 8.50394 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Разводка платы: "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="Демидов С.В."/>
+            <trail ALIGN="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="163.780157482677" YPOS="951.497244094488" WIDTH="467.716535433071" HEIGHT="411.023622047244" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="9" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Regular" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 467.717 0 467.717 0 467.717 0 467.717 0 467.717 411.024 467.717 411.024 467.717 411.024 467.717 411.024 0 411.024 0 411.024 0 411.024 0 411.024 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 467.717 0 467.717 0 467.717 0 467.717 0 467.717 411.024 467.717 411.024 467.717 411.024 467.717 411.024 0 411.024 0 411.024 0 411.024 0 411.024 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="  Разные варианты печатной платы ("/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="позитив"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="негатив"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=") см. в каталоге: '"/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="Изображения - схема, печатная плата 300dpi"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="'"/>
+            <para ALIGN="3" LINESP="8"/>
+            <para ALIGN="3"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="  При питании от "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="9В"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=" необходимо напаять толстый слой олова на &quot;медный крест&quot; (см. печатную плату)!"/>
+            <para ALIGN="3"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="  При питании от "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="5В-6В"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=" - этого можно не делать (микросхема почти не греется)!"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" FEATURES="inherit underline" CH="На плате:"/>
+            <para/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="VD1"/>
+            <ITEXT CH=" ... "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="VD4"/>
+            <ITEXT CH=", - ищите на плате "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="2"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="3"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="4"/>
+            <ITEXT CH="."/>
+            <para/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="RR1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="RL1"/>
+            <ITEXT CH=" - резисторы устанавливаются вертикально."/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="RR2"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="RL2"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="R3"/>
+            <ITEXT CH=" - резисторы устанавливаются горизонтально."/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S2"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S3"/>
+            <ITEXT CH=" - отверстия для стяжок (можно прижать провода)."/>
+            <para/>
+            <para/>
+            <ITEXT CH="   Разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP~"/>
+            <ITEXT CH=", ищите на плате "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="~"/>
+            <ITEXT CH=" (подключение переменного напряжения)."/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="G"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=" - GND"/>
+            <para/>
+            <para/>
+            <ITEXT CH="   Разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP1"/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="(штыревой разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="1x3"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=")"/>
+            <ITEXT CH=", ищите на плате "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="IR"/>
+            <ITEXT CH=" и "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="IL"/>
+            <ITEXT CH="."/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="IR"/>
+            <ITEXT CH=" - вход правого канала."/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="IL"/>
+            <ITEXT CH=" - вход левого канала."/>
+            <para/>
+            <para/>
+            <ITEXT CH="   Разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP2"/>
+            <ITEXT CH=" и "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP3"/>
+            <ITEXT CH=", ищите на плате "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="OR"/>
+            <ITEXT CH=" и "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="OL"/>
+            <ITEXT CH="."/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="OR"/>
+            <ITEXT CH=" - выход на правый динамик (штыревой разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="1x2"/>
+            <ITEXT CH=")."/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="OL"/>
+            <ITEXT CH=" - выход на левый динамик (штыревой разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="1x2"/>
+            <ITEXT CH=")."/>
+            <para/>
+            <para/>
+            <ITEXT CH="   Разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP+"/>
+            <ITEXT CH=", ищите на плате "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="HL2"/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="(штыревой разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="1x2"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=")"/>
+            <ITEXT CH="."/>
+            <para/>
+            <para/>
+            <tab/>
+            <ITEXT FONT="Liberation Mono Bold" CH="Внимание!"/>
+            <para ALIGN="3"/>
+            <tab/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="1"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=". Перемычка "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="J2"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=" впаивается в том случае, если есть необходимость в резисторе "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="RR2"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="."/>
+            <para ALIGN="3"/>
+            <tab/>
+            <ITEXT FONT="Liberation Mono Bold" CH="2"/>
+            <ITEXT CH=". Если Вы не предусматриваете установку резистора "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="RR1"/>
+            <ITEXT CH=" и резистора "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="RL1"/>
+            <ITEXT CH=", то вместо них необходимо впаять перемычки."/>
+            <para ALIGN="3"/>
+            <para/>
+            <tab/>
+            <ITEXT CH="Не забудьте за перемычки: "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="J1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="J3"/>
+            <ITEXT CH="!"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Liberation Mono Bold" FEATURES="inherit underline" CH="Диаметры отверстий на плате:"/>
+            <para/>
+            <para/>
+            <ITEXT CH="   Четыре отверстия по углам - "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="3мм"/>
+            <ITEXT CH="."/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S2"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S3"/>
+            <ITEXT CH=" - "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="2.2мм"/>
+            <ITEXT CH=" (для стяжок шириной "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="2мм"/>
+            <ITEXT CH=")."/>
+            <para/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S2"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="S3"/>
+            <ITEXT CH=" - "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="2.7мм"/>
+            <ITEXT CH=" (для стяжок шириной "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="2.5мм"/>
+            <ITEXT CH=")."/>
+            <para/>
+            <para/>
+            <ITEXT CH="   Разъём "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP~"/>
+            <ITEXT FONT="Liberation Mono Regular" CH=","/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP1"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP2"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP3"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="XP+"/>
+            <ITEXT CH=" - "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="1мм"/>
+            <ITEXT CH="."/>
+            <para/>
+            <ITEXT CH="   Переменный резистор "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="R1R2"/>
+            <ITEXT CH=" - "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="1.2мм"/>
+            <ITEXT CH="."/>
+            <para/>
+            <ITEXT CH="   Перемычка "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="J1"/>
+            <ITEXT CH=" - "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="1мм"/>
+            <ITEXT CH="."/>
+            <para/>
+            <ITEXT CH="   Все остальные - "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="0.8мм"/>
+            <ITEXT CH="."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="143.93763779126" YPOS="1385.19803149607" WIDTH="510.236220472441" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="10" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="2.1259842519685" BEXTRA="2.1259842519685" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510.236 0 510.236 0 510.236 0 510.236 0 510.236 14.1732 510.236 14.1732 510.236 14.1732 510.236 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510.236 0 510.236 0 510.236 0 510.236 0 510.236 14.1732 510.236 14.1732 510.236 14.1732 510.236 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="10" CH="Собранная плата"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="128.34708661126" YPOS="944.41062992189" WIDTH="538.5826772" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="128.34708661126" YPOS="1702.67834648189" WIDTH="255.1181102" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="135.43370079126" YPOS="930.23740157189" WIDTH="786.6141732" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="389.13448822126" YPOS="1694.31614178189" WIDTH="17.00787402" HEIGHT="17.00787402" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" OpticalMargins="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="10" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0.5669291339" TEXTRA="5.102362205" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 17.0079 0 17.0079 0 17.0079 0 17.0079 0 17.0079 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno" FONT="Liberation Mono Bold" FONTSIZE="10" FCOLOR="White" FSHADE="100"/>
+            <trail ALIGN="1" LINESPMode="0" LINESP="10" OpticalMargins="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="411.81165352126" YPOS="1702.67834648189" WIDTH="255.1181102" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="659.84314962126" YPOS="930.23740157189" WIDTH="786.6141732" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="135.43370079126" YPOS="1702.67834648189" WIDTH="248.0314961" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="4.251968504" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 248.031 0 248.031 0 248.031 0 248.031 0 248.031 14.1732 248.031 14.1732 248.031 14.1732 248.031 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 248.031 0 248.031 0 248.031 0 248.031 0 248.031 14.1732 248.031 14.1732 248.031 14.1732 248.031 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="0000 0001 0010 0011 0100 0101 0110 0111 1000"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="411.81165352126" YPOS="1702.67834648189" WIDTH="248.0314961" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="4.251968504" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 248.031 0 248.031 0 248.031 0 248.031 0 248.031 14.1732 248.031 14.1732 248.031 14.1732 248.031 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 248.031 0 248.031 0 248.031 0 248.031 0 248.031 14.1732 248.031 14.1732 248.031 14.1732 248.031 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="1001 1010 1011 1100 1101 1110 1111 0000 0001"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="121.26047244126" YPOS="1702.67834648189" WIDTH="460.6299213" HEIGHT="21.25984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="3.543307087" TEXTRA="7.795275591" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 460.63 0 460.63 0 460.63 0 460.63 0 460.63 21.2598 460.63 21.2598 460.63 21.2598 460.63 21.2598 0 21.2598 0 21.2598 0 21.2598 0 21.2598 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 460.63 0 460.63 0 460.63 0 460.63 0 460.63 21.2598 460.63 21.2598 460.63 21.2598 460.63 21.2598 0 21.2598 0 21.2598 0 21.2598 0 21.2598 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="6" CH="Вёрстка материала: Демидов С.В. Написать мне можно на: stdls@mail.ru, bbarsinov@gmail.com   Сайт: https://drilnet.github.io"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="135.43370079126" YPOS="930.23740157189" WIDTH="524.4094488" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="4.251968504" BEXTRA="4.251968504" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 524.409 0 524.409 0 524.409 0 524.409 0 524.409 14.1732 524.409 14.1732 524.409 14.1732 524.409 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 524.409 0 524.409 0 524.409 0 524.409 0 524.409 14.1732 524.409 14.1732 524.409 14.1732 524.409 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="0000 0001 0010 0011 0100 0101 0110 0111 1000 1001 1010 1011 1100 1101 1110 1111 0000 0001 0010 0011"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="176.536062992126" YPOS="1365.35551181102" WIDTH="113.385826771654" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 113.386 0 113.386 0 113.386 0 113.386 0 113.386 14.1732 113.386 14.1732 113.386 14.1732 113.386 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 113.386 0 113.386 0 113.386 0 113.386 0 113.386 14.1732 113.386 14.1732 113.386 14.1732 113.386 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="6" CH="(C) Демидов С.В."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="326.772283464567" YPOS="1406.45787401575" WIDTH="141.84" HEIGHT="139.68" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Изображения - фото платы 300dpi/top.png" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 141.84 0 141.84 0 141.84 0 141.84 0 141.84 139.68 141.84 139.68 141.84 139.68 141.84 139.68 0 139.68 0 139.68 0 139.68 0 139.68 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 141.84 0 141.84 0 141.84 0 141.84 0 141.84 139.68 141.84 139.68 141.84 139.68 141.84 139.68 0 139.68 0 139.68 0 139.68 0 139.68 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="142.52031496063" YPOS="1566.61535433071" WIDTH="511.323719738076" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0.708661417322835" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="359.950564482058" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="170.86677165126" YPOS="1553.8594488189" WIDTH="453.5433071" HEIGHT="14.17322835" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 453.543 0 453.543 0 453.543 0 453.543 0 453.543 14.1732 453.543 14.1732 453.543 14.1732 453.543 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 453.543 0 453.543 0 453.543 0 453.543 0 453.543 14.1732 453.543 14.1732 453.543 14.1732 453.543 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="6" CH="(C) Демидов С.В."/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="674.15811022126" YPOS="944.41062992126" WIDTH="687.4015748" HEIGHT="21.25984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-270" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="3.543307087" TEXTRA="7.795275591" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 687.402 0 687.402 0 687.402 0 687.402 0 687.402 21.2598 687.402 21.2598 687.402 21.2598 687.402 21.2598 0 21.2598 0 21.2598 0 21.2598 0 21.2598 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 687.402 0 687.402 0 687.402 0 687.402 0 687.402 21.2598 687.402 21.2598 687.402 21.2598 687.402 21.2598 0 21.2598 0 21.2598 0 21.2598 0 21.2598 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="6" CH="Украина, 64250, Харьковская обл., Балаклейский р-н, пос. Донец."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="674.15811022126" YPOS="62.5209448818898" WIDTH="687.4015748" HEIGHT="21.25984252" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-270" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Bold" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="3.543307087" TEXTRA="7.795275591" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 687.402 0 687.402 0 687.402 0 687.402 0 687.402 21.2598 687.402 21.2598 687.402 21.2598 687.402 21.2598 0 21.2598 0 21.2598 0 21.2598 0 21.2598 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 687.402 0 687.402 0 687.402 0 687.402 0 687.402 21.2598 687.402 21.2598 687.402 21.2598 687.402 21.2598 0 21.2598 0 21.2598 0 21.2598 0 21.2598 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="6" CH="Украина, 64250, Харьковская обл., Балаклейский р-н, пос. Донец."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="406.992755905512" YPOS="293.54456694252" WIDTH="226.7716535" HEIGHT="42.51968504" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Regular" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 226.772 0 226.772 0 226.772 0 226.772 0 226.772 42.5197 226.772 42.5197 226.772 42.5197 226.772 42.5197 0 42.5197 0 42.5197 0 42.5197 0 42.5197 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 226.772 0 226.772 0 226.772 0 226.772 0 226.772 42.5197 226.772 42.5197 226.772 42.5197 226.772 42.5197 0 42.5197 0 42.5197 0 42.5197 0 42.5197 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" CH="   Примечание."/>
+            <para LINESP="7"/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="HL1"/>
+            <ITEXT CH=" - светодиод на плате."/>
+            <para ALIGN="0" LINESP="7"/>
+            <ITEXT CH="   "/>
+            <ITEXT FONT="Liberation Mono Bold" CH="HL2"/>
+            <ITEXT CH=" - светодиод для выноса на корпус."/>
+            <para ALIGN="0" LINESP="7"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="261.575433070866" YPOS="1610.55236220472" WIDTH="42.48" HEIGHT="42.48" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Изображения - разные/Mail.png" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 42.48 0 42.48 0 42.48 0 42.48 0 42.48 42.48 42.48 42.48 42.48 42.48 42.48 42.48 0 42.48 0 42.48 0 42.48 0 42.48 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 42.48 0 42.48 0 42.48 0 42.48 0 42.48 42.48 42.48 42.48 42.48 42.48 42.48 42.48 0 42.48 0 42.48 0 42.48 0 42.48 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="316.851023622047" YPOS="1617.63897637795" WIDTH="255.11811023622" HEIGHT="28.3464566929134" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="10" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Regular" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5.10236220472441" BEXTRA="5.10236220472441" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.118 0 255.118 0 255.118 0 255.118 0 255.118 28.3465 255.118 28.3465 255.118 28.3465 255.118 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.118 0 255.118 0 255.118 0 255.118 0 255.118 28.3465 255.118 28.3465 255.118 28.3465 255.118 28.3465 0 28.3465 0 28.3465 0 28.3465 0 28.3465 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="Для писем: "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="stdls@mail.ru"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH=", "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="bbarsinov@gmail.com"/>
+            <para LINESP="10"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="8" CH="Сайт: "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="8" CH="https://drilnet.github.io"/>
+            <trail LINESP="10"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="264.410078740158" YPOS="1653.07204724409" WIDTH="198.425196850394" HEIGHT="14.1732283464567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Mono Regular" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 198.425 0 198.425 0 198.425 0 198.425 0 198.425 14.1732 198.425 14.1732 198.425 14.1732 198.425 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 198.425 0 198.425 0 198.425 0 198.425 0 198.425 14.1732 198.425 14.1732 198.425 14.1732 198.425 14.1732 0 14.1732 0 14.1732 0 14.1732 0 14.1732 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Mono Bold" CH="Примечание."/>
+            <para/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="6" CH="Иконка конверта из набора "/>
+            <ITEXT FONT="Liberation Mono Bold" FONTSIZE="6" CH="Oxygen"/>
+            <ITEXT FONT="Liberation Mono Regular" FONTSIZE="6" CH="."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
