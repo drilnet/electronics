@@ -9,34 +9,10 @@
 
 **Список:**
 
-<table cellspacing="0" cellpadding="0" border="0">
-
-<tr>
-<td style="padding: 0px;">
-&nbsp;&nbsp;&nbsp; Box For Exposure Photoresist
-</td>
-<td style="padding: 11px;">
- -
-</td>
-<td style="padding: 0px;">
 <a href="https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist">Ящик для экспонирования ФОТОРЕЗИСТА</a>
-</td>
-</tr>
-
-<tr>
-<td>
-&nbsp;&nbsp;&nbsp; AUDIO AMPLIFIER TEA2025B
-</td>
-<td>
--
-</td>
-<td>
+<br>
 <a href="https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B">Усилитель звука на микросхеме
  TEA2025B</a>
-</td>
-</tr>
-
-</table>
 
 <hr>
 
