@@ -9,16 +9,16 @@
 
 **Список:**
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table cellspacing="0" cellpadding="0" border="0">
 
 <tr>
-<td>
+<td style="padding: 0px;">
 &nbsp;&nbsp;&nbsp; Box For Exposure Photoresist
 </td>
-<td>
+<td style="padding: 11px;">
  -
 </td>
-<td>
+<td style="padding: 0px;">
 <a href="https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist">Ящик для экспонирования ФОТОРЕЗИСТА</a>
 </td>
 </tr>
