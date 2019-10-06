@@ -9,15 +9,34 @@
 
 **Список:**
 
-&nbsp;&nbsp;&nbsp; Box For Exposure Photoresist - [Ящик для экспонирования ФОТОРЕЗИСТА](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist)
-<br>
-&nbsp;&nbsp;&nbsp; AUDIO AMPLIFIER TEA2025B - [Усилитель звука на микросхеме
- TEA2025B](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B)
+<table border="0" cellpadding="0" cellspacing="0">
 
-<a href="https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist)" title="Ящик для экспонирования ФОТОРЕЗИСТА"><samp>Box For Exposure Photoresist</samp></a>
-<br>
-<a href="https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B" title="Усилитель звука на микросхеме
- TEA2025B"><samp>AUDIO AMPLIFIER TEA2025B</samp></a>
+<tr>
+<td>
+&nbsp;&nbsp;&nbsp; Box For Exposure Photoresist
+</td>
+<td>
+ -
+</td>
+<td>
+<a href="https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist">Ящик для экспонирования ФОТОРЕЗИСТА</a>
+</td>
+</tr>
+
+<tr>
+<td>
+&nbsp;&nbsp;&nbsp; AUDIO AMPLIFIER TEA2025B
+</td>
+<td>
+-
+</td>
+<td>
+<a href="https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B">Усилитель звука на микросхеме
+ TEA2025B</a>
+</td>
+</tr>
+
+</table>
 
 <hr>
 
