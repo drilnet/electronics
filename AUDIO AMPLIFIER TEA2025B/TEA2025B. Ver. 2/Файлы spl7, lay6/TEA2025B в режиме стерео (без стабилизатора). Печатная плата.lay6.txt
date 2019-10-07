@@ -1,2 +1,0 @@
-*.lay6 - файл программы Sprint Layout. Версия 6.0 от 11.03.2013.
-www.abacom-online.de
