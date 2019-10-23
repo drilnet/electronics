@@ -9,10 +9,10 @@
 
 **Список:**
 
-<a href="https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist">Ящик для экспонирования ФОТОРЕЗИСТА</a>
+&nbsp;&nbsp;&nbsp;&bull; [Ящик для экспонирования ФОТОРЕЗИСТА](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist)
 <br>
-<a href="https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B">Усилитель звука на микросхеме
- TEA2025B</a>
+&nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
+ TEA2025B](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B)
 
 <hr>
 
