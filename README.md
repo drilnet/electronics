@@ -23,7 +23,7 @@
 <hr>
 
 **Дополнительные ссылки (коммерческое ПО):**
-* Редактор схем и разводка плат (**sPlan**, **Sprint Layout**): [www.abacom-online.de](http://www.abacom-online.de)
+* Редактор схем и разводка плат (**sPlan**, **Sprint Layout**): [http://www.abacom-online.de](http://www.abacom-online.de)
 
 <hr>
 
