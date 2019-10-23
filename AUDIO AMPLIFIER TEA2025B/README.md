@@ -5,6 +5,6 @@
 
 ## Усилитель звука на микросхеме TEA2025B
 
-Лицензия: **GNU GPL V3**.
+Лицензия: **Free**.
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
