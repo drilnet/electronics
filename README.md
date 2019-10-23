@@ -22,6 +22,11 @@
 
 <hr>
 
+**Дополнительные ссылки (коммерческое ПО):**
+* Редактор схем и разводка плат (**sPlan**, **Sprint Layout**): [www.abacom-online.de](www.abacom-online.de)
+
+<hr>
+
 **Ещё репозитории автора:**
 
 **Репозиторий:** [Blender 3D. Модель игральной кости (dice)](https://github.com/drilnet/blender3d-dice2)
