@@ -16,6 +16,12 @@
 
 <hr>
 
+**Дополнительные ссылки (бесплатное ПО):**
+* Редактор схем: [https://www.tinycad.net/](https://www.tinycad.net/)
+* Редактор схем и разводка плат: [https://www.expresspcb.com/](https://www.expresspcb.com/)
+
+<hr>
+
 **Ещё репозитории автора:**
 
 **Репозиторий:** [Blender 3D. Модель игральной кости (dice)](https://github.com/drilnet/blender3d-dice2)
