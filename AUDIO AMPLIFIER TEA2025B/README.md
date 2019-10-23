@@ -7,4 +7,4 @@
 
 Лицензия: **GNU GPL V3**.
 
-![](https://github.com/drilnet/blender3d-dice2/blob/master/UA.png)
+![](https://github.com/drilnet/electronics/blob/master/UA.png)
