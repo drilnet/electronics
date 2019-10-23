@@ -48,5 +48,7 @@
 ```
 <hr>
 
+Схема выполнена в редакторе [TinyCAD](https://www.tinycad.net)
+Разводка платы - [Express PCB Plus](https://www.expresspcb.com)
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
