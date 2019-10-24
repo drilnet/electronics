@@ -72,7 +72,7 @@
 
 Посадочные места радиодеталей для программы [ExpressPCB Plus Layout  ver. 1.1.6](https://www.expresspcb.com/)
 <br>
-Скопировать в **Windows 7** в **C:\Users\здесь_имя_пользователя\Documents\ExpressPCB Plus\User-Defined Parts\**
+Скопировать в **Windows 7** в **<i>'C:\Users\здесь_имя_пользователя\Documents\ExpressPCB Plus\User-Defined Parts\'</i>**
 
 <hr>
 
