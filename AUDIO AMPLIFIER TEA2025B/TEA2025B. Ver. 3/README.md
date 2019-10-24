@@ -70,7 +70,7 @@
 
 Файл: [User-Defined Parts.rar](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203/User-Defined%20Parts.rar)
 
-Посадочные места радиодеталей для программы [xpressPCB Plus Layout ver. 1.1.6](https://www.expresspcb.com/)
+Посадочные места радиодеталей для программы [ExpressPCB Plus Layout  ver. 1.1.6](https://www.expresspcb.com/)
 <br>
 Скопировать в **Windows 7** в **C:\Users\здесь_имя_пользователя\Documents\ExpressPCB Plus\User-Defined Parts\**
 
