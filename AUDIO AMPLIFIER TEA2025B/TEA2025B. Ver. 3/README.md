@@ -62,6 +62,15 @@
 
 <hr>
 
+---
+| Файл: TinyCADLibrarySt_TEA2025B.TCLib.rar
+---
+
+   Условно графическое обозначение радиоэлементов для программы TinyCAD Ver. 2.90.00.
+   Подключить библиотеку можно: Library => Add...
+
+<hr>
+
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
