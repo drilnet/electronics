@@ -68,7 +68,7 @@
 <br>
 Подключить библиотеку можно: **Library** => **Add**...
 
-Файл: User-Defined Parts.rar
+Файл: [User-Defined Parts.rar](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203/User-Defined%20Parts.rar)
 
 Посадочные места радиодеталей для программы ExpressPCB Plus Layout ver. 1.1.6.
 <br>
