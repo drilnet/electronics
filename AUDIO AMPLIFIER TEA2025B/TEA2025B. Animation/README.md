@@ -5,7 +5,7 @@
 
 ## Заставки
 
-Лицензия: **GNU GPL V3**.
+Лицензия (License): **GNU GPL V3**.
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
