@@ -1,5 +1,7 @@
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation/TEA2025B%2C%20contrast%20LQ.webp)
 
+<img src="https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation/TEA2025B%2C%20contrast%20LQ.webp" alt="Лицензия (License): GNU GPL V3">
+
 ## TEA2025B. Ver. 3
 
 Лицензия: **Free**.
