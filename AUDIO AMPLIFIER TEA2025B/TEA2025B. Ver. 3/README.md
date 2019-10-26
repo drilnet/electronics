@@ -66,11 +66,15 @@
 
 Условные графические обозначения радиодеталей для программы [TinyCAD Ver. 2.90.00](https://www.tinycad.net/)
 <br>
+Использовались при рисовании схемы!
+<br>
 Подключить библиотеку можно: **Library** => **Add**...
 
 Файл: [User-Defined Parts.rar](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203/User-Defined%20Parts.rar)
 
 Посадочные места радиодеталей для программы [ExpressPCB Plus Layout  ver. 1.1.6](https://www.expresspcb.com/)
+<br>
+Использовались при рисовании печатной платы!
 <br>
 Скопировать в **Windows 7** в **'C:\Users\здесь_имя_пользователя\Documents\ExpressPCB Plus\User-Defined Parts\'**
 
