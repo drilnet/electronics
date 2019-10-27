@@ -38,7 +38,8 @@
 
 <hr>
 
-Специальную плёнку для фотошаблонов или бумагу для термопереноса (технология ЛУТ) можно купить [здесь](https://voron.ua/catalog/materials-for-production-and-repair/materials-for-pcb-manufacturing/printer_film "https://voron.ua/")
+**Внимание!**
+Специальную плёнку для фотошаблонов или бумагу для термопереноса ([технология ЛУТ](https://uk.wikipedia.org/wiki/Лазерно-праскова_технологія)) можно купить [здесь](https://voron.ua/catalog/materials-for-production-and-repair/materials-for-pcb-manufacturing/printer_film "https://voron.ua/")
 
 <hr>
 
