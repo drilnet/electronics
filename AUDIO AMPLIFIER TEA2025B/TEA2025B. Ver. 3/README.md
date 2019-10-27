@@ -44,6 +44,9 @@
 
 Более подробно смотрите: [TEA2025B. Схема, печатная плата, собранная плата.pdf](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203/TEA2025B.%20%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%2C%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B0%2C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B0.pdf)
 
+**Примечание.**
+C12, C13 - использовались на 1000мкФ x 35В.
+
 <hr>
 
 ### Выходная мощность в режиме стерео:
