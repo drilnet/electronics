@@ -13,6 +13,13 @@
 
 <hr>
 
+**Дополнительные ссылки на [YouTube](https://www.youtube.com/):**
+
+* **Чип и Дип**. [Интегральный усилитель мощности TEA2025B](https://www.youtube.com/watch?v=HxKuFPEZ8IY)
+* **Maks Goodwin**. [Усилитель TEA2025B](https://www.youtube.com/watch?v=0jN5wf0AZAE)
+
+<hr>
+
 <div align="center">
 <a href="https://github.com/drilnet/electronics">
 [ Вернуться в начало репозитория Electronics ]
