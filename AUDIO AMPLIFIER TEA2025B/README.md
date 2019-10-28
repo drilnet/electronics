@@ -9,7 +9,7 @@
 
 Заставки для проекта: [TEA2025B. Animation](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation)
 <br>
-Схема (режим стерео), печатная плата, собранная плата: [TEA2025B. Ver. 3](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203)
+Схема (режим стерео), печатная плата, собранная плата: [TEA2025B. Ver. 3](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203 "нестабилизированный источник питания")
 
 <hr>
 
