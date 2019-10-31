@@ -27,7 +27,7 @@
 
 <hr>
 
-**Дополнительные ссылки (где в [Украине](https://ru.wikipedia.org/wiki/Украина) (UKR)[https://uk.wikipedia.org/wiki/Україна] купить радиодетали):**
+**Дополнительные ссылки (где в [Украине](https://ru.wikipedia.org/wiki/Украина) ([UKR](https://uk.wikipedia.org/wiki/Україна)) купить радиодетали):**
 * [https://voron.ua](https://voron.ua "Интернет магазин в Днепре")
 * [http://www.kosmodrom.com.ua](http://www.kosmodrom.com.ua "Интернет магазин в Харькове")
 
