@@ -28,8 +28,8 @@
 <hr>
 
 **Дополнительные ссылки (где в Украине купить радиодетали):**
-* [https://voron.ua](https://voron.ua)
-* [http://www.kosmodrom.com.ua](http://www.kosmodrom.com.ua)
+* [https://voron.ua](https://voron.ua "Магазин в Днепре")
+* [http://www.kosmodrom.com.ua](http://www.kosmodrom.com.ua "Магазин в Харькове")
 
 <hr>
 
