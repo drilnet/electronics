@@ -27,6 +27,12 @@
 
 <hr>
 
+**Дополнительные ссылки (где в Украине купить радиодетали):**
+* [https://voron.ua](https://voron.ua)
+* [http://www.kosmodrom.com.ua](http://www.kosmodrom.com.ua)
+
+<hr>
+
 **Ещё репозитории автора:**
 
 **Репозиторий:** [Blender 3D. Модель игральной кости (dice)](https://github.com/drilnet/blender3d-dice2)
