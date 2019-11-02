@@ -15,7 +15,7 @@
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation/TEA2025B%2C%20contrast%20LQ.webp)
 
-Теперь эта работа есть в этом [репозитории](https://github.com/drilnet/blender3d-tea2025b).
+Теперь эти работы есть в этом [репозитории](https://github.com/drilnet/blender3d-tea2025b).
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
