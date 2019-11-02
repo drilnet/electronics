@@ -11,7 +11,7 @@
 
 Заставки к проекту:
 
-![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation/TEA2025B.%20Printed%20circuit%20board%2C%20contrast%2C%20LQ.webp)
+![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation/TEA2025B.%20Printed%20circuit%20board%2C%20contrast%2C%20HQ.webp)
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation/TEA2025B%2C%20contrast%20LQ.webp)
 
