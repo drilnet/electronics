@@ -28,10 +28,10 @@
 <hr>
 
 **Дополнительные ссылки (радиодетали):**
-* [https://voron.ua](https://voron.ua "Интернет магазин в Днепре")
-* [http://www.kosmodrom.com.ua](http://www.kosmodrom.com.ua "Интернет магазин в Харькове")
-* [https://3v3.com.ua](https://3v3.com.ua "Интернет магазин в Харькове")
-* [https://radiovin.com.ua](https://radiovin.com.ua "Интернет магазин в Виннице")
+* [https://voron.ua](https://voron.ua "Интернет магазин (Днепр)")
+* [http://www.kosmodrom.com.ua](http://www.kosmodrom.com.ua "Интернет магазин (Харьков)")
+* [https://3v3.com.ua](https://3v3.com.ua "Интернет магазин (Харьков)")
+* [https://radiovin.com.ua](https://radiovin.com.ua "Интернет магазин (Винница)")
 
 <hr>
 
