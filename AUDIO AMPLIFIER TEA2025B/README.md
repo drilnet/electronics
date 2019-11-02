@@ -7,10 +7,12 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
+<div>
 <a href="https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation">
 <img src="https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation/TEA2025B.%20Printed%20circuit%20board%2C%20contrast%2C%20HQ.webp" title="Заставка к проекту! Лицензия (License): GNU GPL V3. (C) Демидов С.В.">
 </a>
-
+<br>
+</div>
 
 Заставки для проекта: [TEA2025B. Animation](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation)
 <br>
