@@ -12,7 +12,7 @@
 </a>
 
 <br>
-<br>
+
 Заставки для проекта: [TEA2025B. Animation](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Animation)
 <br>
 Даташит: [TEA2025B. Datasheet](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Datasheet)
