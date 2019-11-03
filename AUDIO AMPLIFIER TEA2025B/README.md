@@ -18,6 +18,8 @@
 Даташит: [TEA2025B. Datasheet](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Datasheet)
 <br>
 Схема (стерео), печатная плата, собранная плата: [TEA2025B. Ver. 3](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203 "с нестабилизированным источником питания")
+<br>
+Схема (стерео), печатная плата: [TEA2025B. Ver. 4](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204 "без источника питания")
 
 <hr>
 
