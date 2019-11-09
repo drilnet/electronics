@@ -41,4 +41,7 @@
 
 <hr>
 
-Более подробно смотрите: [](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/TEA2025B.%20%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%2C%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B0.pdf)
+Более подробно смотрите: [TEA2025B. Схема, печатная плата.pdf](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/TEA2025B.%20%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%2C%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B0.pdf)
+
+<hr>
+
