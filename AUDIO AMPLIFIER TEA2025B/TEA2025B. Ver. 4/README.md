@@ -77,6 +77,6 @@
 <br>
 Использовались при рисовании схемы!
 <br>
-Нарисовано в [TinyCAD](https://www.tinycad.net/) Ver.2.80.08, build #631. 
+Нарисовано в [TinyCAD](https://www.tinycad.net/) Ver.2.80.08 Build #631. 
 <br>
 Подключить библиотеку можно: **Library** => **Add**...
