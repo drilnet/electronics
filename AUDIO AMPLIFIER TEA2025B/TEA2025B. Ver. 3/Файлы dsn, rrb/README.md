@@ -1,0 +1,2 @@
+- Схема выполнена в редакторе [TinyCAD Ver. 2.90.00](https://www.tinycad.net/)
+- Разводка платы - [Express PCB Plus Layout Ver. 1.1.6](https://www.expresspcb.com/)
