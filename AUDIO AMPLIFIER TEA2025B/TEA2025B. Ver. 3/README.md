@@ -66,7 +66,7 @@
 
 Схема выполнена в редакторе [TinyCAD Ver. 2.90.00](https://www.tinycad.net)
 <br>
-Разводка платы - [Express PCB Plus Layout  ver. 1.1.6](https://www.expresspcb.com)
+Разводка платы - [Express PCB Plus Layout Ver. 1.1.6](https://www.expresspcb.com)
 
 Файл **TinyCAD'а**: [TEA2025B. Схема.dsn](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20dsn%2C%20rrb/TEA2025B.%20%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.dsn)
 <br>
