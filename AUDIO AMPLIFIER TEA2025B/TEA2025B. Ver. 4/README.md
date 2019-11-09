@@ -71,7 +71,7 @@
 
 <hr>
 
-Файл: [TinyCADLibrarySt_TEA2025B.TCLib.7z]()
+Файл: [TinyCADLibrarySt_TEA2025B.TCLib.7z](,)
 
 Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/)
 Использовались при рисовании схемы!
