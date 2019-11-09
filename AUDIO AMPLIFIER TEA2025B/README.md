@@ -23,6 +23,12 @@
 <br>
 Схема (стерео), печатная плата: [TEA2025B. Ver. 4](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204 "без источника питания")
 
+**Примечание.**
+<br>
+TEA2025B Ver. 3 - С нестабилизированным источником питания!
+<br>
+TEA2025B Ver. 4 - Без источника питания!
+
 <hr>
 
 **Дополнительные ссылки на [YouTube](https://www.youtube.com/):**
