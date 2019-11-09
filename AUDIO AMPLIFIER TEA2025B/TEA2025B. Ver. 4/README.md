@@ -60,3 +60,13 @@
 ```
 
 <hr>
+
+Схема выполнена в редакторе [TinyCAD](https://www.tinycad.net)
+<br>
+Разводка платы - [Express PCB Plus](https://www.expresspcb.com)
+
+Файл **TinyCAD'а**: [TEA2025B. Схема.dsn]()
+<br>
+Файл **Express PCB Plus**: [TEA2025B. Печатная плата.rrb]()
+
+<hr>
