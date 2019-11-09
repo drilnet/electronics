@@ -65,7 +65,7 @@
 <br>
 Разводка платы - [Express PCB Plus](https://www.expresspcb.com)
 
-Файл **TinyCAD'а**: [TEA2025B. Схема.dsn]()
+Файл **TinyCAD'а**: [TEA2025B. Схема.dsn](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20dsn%2C%20rrb/TEA2025B.%20%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.dsn)
 <br>
 Файл **Express PCB Plus**: [TEA2025B. Печатная плата.rrb]()
 
