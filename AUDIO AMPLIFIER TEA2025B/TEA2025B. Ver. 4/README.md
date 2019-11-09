@@ -71,7 +71,7 @@
 
 <hr>
 
-Файл: [TinyCADLibrarySt_TEA2025B.TCLib.7z](,)
+Файл: [TinyCADLibrarySt_TEA2025B.TCLib.7z](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/TinyCADLibrarySt_TEA2025B.TCLib.7z)
 
 Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/)
 Использовались при рисовании схемы!
