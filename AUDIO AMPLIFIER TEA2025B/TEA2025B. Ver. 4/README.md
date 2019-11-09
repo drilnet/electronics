@@ -74,6 +74,9 @@
 Файл: [TinyCADLibrarySt_TEA2025B.TCLib.7z](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/TinyCADLibrarySt_TEA2025B.TCLib.7z)
 
 Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/)
+<br>
 Использовались при рисовании схемы!
+<br>
 Нарисовано в [TinyCAD](https://www.tinycad.net/) Ver.2.80.08, build #631. 
+<br>
 Подключить библиотеку можно: **Library** => **Add**...
