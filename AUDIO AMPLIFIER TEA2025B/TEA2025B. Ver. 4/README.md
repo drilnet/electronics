@@ -70,7 +70,9 @@
 Файл **Express PCB Plus**: [TEA2025B. Печатная плата.rrb](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20dsn%2C%20rrb/TEA2025B.%20%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B0.rrb)
 
 <hr>
-
+nljol
+lj;lk
+olkpk
 Файл: [TinyCADLibrarySt_TEA2025B.TCLib.7z](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/TinyCADLibrarySt_TEA2025B.TCLib.7z)
 
 Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/)
