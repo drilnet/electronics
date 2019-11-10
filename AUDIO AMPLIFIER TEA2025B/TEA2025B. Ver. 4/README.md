@@ -18,8 +18,6 @@
 
 **Используемые разъёмы:**
 
-lmlkmlkml
-
 **XP Ucc** и **XS Ucc** - разъём **NS25-W2P** ("папа"), разъём **NS25-G2** ("мама"),
 <br>
 контакты **NS25-T** (третье изображение) к разъему **NS25-G2**.
@@ -36,7 +34,7 @@ lmlkmlkml
 
 **XP+** и **XS+**, **XP2** и **XS2**, **XP3** и **XS3** - разъём **ZL201-02G** ("папа"), разъём **NSR-02** ("мама"),
 <br>
-контакты **NDR-T** к разъему **NSR-02**.
+контакты **NDR-T** (третье изображение) к разъему **NSR-02**.
 
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B%2C%20%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D1%8B/XP%2B%20%26%20XS%2B%2C%20XP2%20%26%20XS2%2C%20XP3%20%26%20XS3%20-%20ZL201-02G.jpg)
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B%2C%20%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D1%8B/XP%2B%20%26%20XS%2B%2C%20XP2%20%26%20XS2%2C%20XP3%20%26%20XS3%20-%20NSR-02.jpg)
