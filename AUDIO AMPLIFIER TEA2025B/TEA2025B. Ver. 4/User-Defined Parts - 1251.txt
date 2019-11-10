@@ -1,0 +1,8 @@
+
+   ---
+   | Файл: User-Defined Parts.7z
+   ---
+
+   Посадочные места радиодеталей для программы ExpressPCB Plus Layout.
+   Использовались при рисовании печатной платы!
+   Скопировать в Windows 7 в C:\Users\здесь_имя_пользователя\Documents\ExpressPCB Plus\User-Defined Parts\
