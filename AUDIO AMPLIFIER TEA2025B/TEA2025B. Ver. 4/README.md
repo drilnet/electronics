@@ -44,14 +44,15 @@
 **Используемые разъёмы:**
 
 **XP Ucc** и **XS Ucc** - разъём **NS25-W2P** ("папа"), разъём **NS25-G2** ("мама"), контакты **NS25-T** к разъему **NS25-G2**.
-<br>
-**XS Ucc** на схеме не показан!
 
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B%2C%20%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D1%8B/XP%20Ucc%20-%20NS25-W2P.jpg)
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B%2C%20%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D1%8B/XP%20Ucc%20-%20NS25-G2.jpg)
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B%2C%20%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D1%8B/XP%20Ucc%20-%20NS25-T.jpg)
 
 **NS25-W2P**, **NS25-G2**, **NS25-T** можно купить [здесь](http://www.kosmodrom.com.ua/prodlist.php?name=ns25connector)
+
+Примечание.
+**XS Ucc** на схеме не показан!
 
 **XP+** и **XS+**, **XP2** и **XS2**, **XP3** и **XS3** - разъём **ZL201-02G** ("папа"), разъём **NSR-02** ("мама"),
 <br>
