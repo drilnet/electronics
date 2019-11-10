@@ -39,9 +39,11 @@
 <br>
 Специальную **плёнку** для фотошаблонов или **бумагу** для термопереноса ([технология ЛУТ](https://uk.wikipedia.org/wiki/Лазерно-праскова_технологія "Украинская Википедия")) можно купить [здесь](https://voron.ua/catalog/materials-for-production-and-repair/materials-for-pcb-manufacturing/printer_film "https://voron.ua/")
 
+<hr>
+
 **Используемые разъёмы:**
 
-**XP Ucc** - разъём NS25-W2P ("папа"), NS25-G2 ("мама"), NS25-T (контакты к разъему NS25-G2)
+**XP Ucc** - разъём **NS25-W2P** ("папа"), **NS25-G2** ("мама"), **NS25-T** (контакты к разъему **NS25-G2**)
 
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B%2C%20%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D1%8B/XP%20Ucc%20-%20NS25-W2P.jpg)
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B%2C%20%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D1%8B/XP%20Ucc%20-%20NS25-G2.jpg)
