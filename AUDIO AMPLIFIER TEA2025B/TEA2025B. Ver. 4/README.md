@@ -16,8 +16,6 @@
 
 В 600dpi: [здесь](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%2C%20%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B0%20600dpi/TEA2025B.%20%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.png)
 
-<hr>
-
 **Используемые разъёмы:**
 
 **XP Ucc** и **XS Ucc** - разъём **NS25-W2P** ("папа"), разъём **NS25-G2** ("мама"), контакты **NS25-T** к разъему **NS25-G2**.
@@ -41,8 +39,6 @@
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20-%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B%2C%20%D1%80%D0%B0%D0%B7%D1%8A%D1%91%D0%BC%D1%8B/XP%2B%20%26%20XS%2B%2C%20XP2%20%26%20XS2%2C%20XP3%20%26%20XS2%20-%20NDR-T.jpg)
 
 **ZL201-02G**, **NSR-02**, **NDR-T** можно купить [здесь](http://www.kosmodrom.com.ua/prodlist.php?name=plspldconnector)
-
-<hr>
 
 ### Расположение радиодеталей на печатной плате
 
