@@ -13,6 +13,8 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
  TEA2025B](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B)
+<br>
+&nbsp;&nbsp;&nbsp;&bull; [Ремонт компьютерных колонок Genius SP-G06](https://github.com/drilnet/electronics/tree/master/Speakers%20Genius%20SP-G06)
 
 <hr>
 
