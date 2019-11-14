@@ -67,6 +67,9 @@
 <br>
 <br>
 **Репозиторий:** [RLE кодирование/декодирование своими руками (VRLE8, VRLE16)](https://github.com/drilnet/rle)
+<br>
+<br>
+**Репозиторий:** [Интеллект. Искусственный интеллект](https://github.com/drilnet/Intelligence "Intelligence. Artificial Intelligence")
 
 <hr>
 
