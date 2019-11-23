@@ -3,7 +3,7 @@
 
 <hr>
 
-## Вторая жизнь компьютерным колонкам Genius (модель SP- G06)
+## Вторая жизнь компьютерным колонкам Genius (модель SP-G06)
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
