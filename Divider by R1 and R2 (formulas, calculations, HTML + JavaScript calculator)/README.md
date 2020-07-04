@@ -9,6 +9,10 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
+### Формулы и Расчёты в pdf-формате (качество 300dpi)
+
+[Resistor Divider (2 Resistors).pdf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Resistor%20Divider%20(2%20Resistors).pdf)
+
 ### HTML + JS<br>Одиннадцать разных расчётов!
 
 1. Скачайте архив [HTML + JavaScript.7z](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/HTML%20%2B%20JavaScript.7z).
@@ -18,7 +22,3 @@
 Ниже приведён скриншот расчёта n1 (размер скришота уменьшен).
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/CALCDIVR2_Screenshot_n1.png "(C) Демидов С.В.")
-
-### Формулы и Расчёты в pdf-формате (качество 300dpi)
-
-[Resistor Divider (2 Resistors).pdf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Resistor%20Divider%20(2%20Resistors).pdf)
