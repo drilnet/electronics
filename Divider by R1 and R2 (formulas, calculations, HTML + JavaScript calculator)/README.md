@@ -33,6 +33,8 @@
 * **dsn-файл** (схема, файл [TinyCAD](https://www.tinycad.net "Редактор схем")'а);
 * **odt-файл** (формулы, расчёты, [LibreOffice](https://www.libreoffice.org "Офисный пакет LibreOffice (Writer, Calc, Impress, Draw, Math, Base)")).
 
+**Всё!**
+
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
 
 <hr>
