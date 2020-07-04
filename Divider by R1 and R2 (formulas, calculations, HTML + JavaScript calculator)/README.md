@@ -13,7 +13,7 @@
 
 [Resistor Divider (2 Resistors).pdf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Resistor%20Divider%20(2%20Resistors).pdf "Формулы и Расчёты")
 
-### HTML + JS<br>Одиннадцать разных расчётов!
+### Калькулятор на HTML + JS<br>Одиннадцать разных расчётов!
 
 1. Скачайте архив [HTML + JavaScript.7z](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/HTML%20%2B%20JavaScript.7z).
 2. Распакуйте архив с помощью [7-Zip](https://www.7-zip.org/download.html).
