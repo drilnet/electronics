@@ -17,5 +17,5 @@
 
 Ниже приведён скриншот расчёта n1 (размер скришота уменьшен).
 
-![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/CALCDIVR2_Screenshot_1.png "(C) Демидов С.В.")
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/CALCDIVR2_Screenshot_n1.png "(C) Демидов С.В.")
 
