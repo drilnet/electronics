@@ -15,6 +15,6 @@
 2. Распакуйте архив с помощью [7-Zip](https://www.7-zip.org/download.html).
 3. Откройте файл [calcdivr2.html](https://drilnet.github.io/calcdivr2.html) в любом браузере ([Google Chrome](https://www.google.com/intl/ru/chrome/), [Opera](https://www.opera.com/ru/download) и др.).
 
-Ниже приведён скриншот 1-го расчёта.
+Ниже приведён скриншот расчёта n1.
 
 
