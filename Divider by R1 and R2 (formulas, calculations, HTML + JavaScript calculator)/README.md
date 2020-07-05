@@ -19,7 +19,7 @@
 2. Распакуйте архив с помощью [7-Zip](https://www.7-zip.org/download.html).
 3. Откройте файл [calcdivr2.html](https://drilnet.github.io/calcdivr2.html) в любом браузере ([Google Chrome](https://www.google.com/intl/ru/chrome/), [Opera](https://www.opera.com/ru/download) и др.).
 
-Ниже приведён скриншот расчёта n1 (размер скришота уменьшен).
+Ниже приведён скриншот расчёта n1 (размер скриншота уменьшен).
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/CALCDIVR2_Screenshot_n1.png "(C) Демидов С.В.")
 
