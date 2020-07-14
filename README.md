@@ -59,11 +59,11 @@
 **Репозиторий:** [Скрипт, который подписывает цифровые фотографии](https://github.com/drilnet/programming-perl-signature-images "Скрипт написан на Perl")
 <br>
 <br>
-**Репозиторий:** [Вектор-06Ц. Ожившее кино](https://github.com/drilnet/vector-06c-kino)
+**Репозиторий:** [Вектор-06Ц. Ожившее кино](https://github.com/drilnet/vector-06c-kino "Конвертирующие скрипты написаны на Perl")
 <br>
-**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP](https://github.com/drilnet/vector-06c-spr2bmp)
+**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP](https://github.com/drilnet/vector-06c-spr2bmp "Конвертер SPR в BMP написан на Си (и есть версия на Perl)")
 <br>
-**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов GRF в BMP](https://github.com/drilnet/vector-06c-grf2bmp)
+**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов GRF в BMP](https://github.com/drilnet/vector-06c-grf2bmp "Конвертер GRF в BMP написан на Си (и есть версия на Perl)")
 <br>
 **Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц](https://github.com/drilnet/vector-06c-color256 "Скрипт написан на Perl")
 <br>
