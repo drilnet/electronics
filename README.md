@@ -70,6 +70,10 @@
 <br>
 **Репозиторий:** [RLE кодирование/декодирование своими руками (VRLE8, VRLE16)](https://github.com/drilnet/rle)
 <br>
+**Репозиторий:** [Игра Пятнашки (Puzzle 15, Game 15), игра написана на JavaScript](https://github.com/drilnet/puzzle15 "Игра для вашего сайта")
+<br>
+**Репозиторий:** [Мой сайт (репозиторий моего сайта)](https://github.com/drilnet/drilnet.github.io "Репозиторий сайта https://drilnet.github.io")
+<br>
 <br>
 **Репозиторий:** [Интеллект. Искусственный интеллект](https://github.com/drilnet/Intelligence "Intelligence. Artificial Intelligence")
 
