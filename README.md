@@ -7,7 +7,7 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
-**Список:**
+### Список:
 
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
  TEA2025B](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B "Схема, печатная плата, собранная плата")
