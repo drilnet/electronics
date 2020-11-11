@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD 3.00.01 develop
+If you wish to view this file go to https://www.tinycad.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>1</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='62.50000' snap='1'/>
+		</DETAILS>
+		<FONT id='1'>
+			<HEIGHT>-10</HEIGHT>
+			<WIDTH>0</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='3'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>7</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Liberation Mono</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>7</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Liberation Mono</FACENAME>
+		</FONT>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<SYMBOLDEF id='2'>
+			<NAME type='0'>TR</NAME>
+			<REF type='0'>TR?</REF>
+			<DESCRIPTION>Transformator 3</DESCRIPTION>
+			<PPP>1</PPP>
+			<GUID></GUID>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='121.25000,83.75000'/>
+			<TinyCAD>
+				<POLYGON pos='97.40000,63.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.35000,0.12500' arc='0'/>
+					<POINT pos='0.10000,1.37500' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='97.40000,61.80000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.10000,0.07500' arc='0'/>
+					<POINT pos='1.35000,1.32500' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='97.40000,65.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.35000,0.02500' arc='0'/>
+					<POINT pos='0.10000,1.27500' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='97.40000,64.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.10000,0.17500' arc='0'/>
+					<POINT pos='1.35000,1.42500' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='97.40000,68.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.35000,0.12500' arc='0'/>
+					<POINT pos='0.10000,1.37500' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='97.40000,66.80000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.10000,0.07500' arc='0'/>
+					<POINT pos='1.35000,1.32500' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='97.40000,70.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.35000,0.02500' arc='0'/>
+					<POINT pos='0.10000,1.27500' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='97.40000,69.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.10000,0.17500' arc='0'/>
+					<POINT pos='1.35000,1.42500' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,51.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.05000' arc='0'/>
+					<POINT pos='1.25000,1.30000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,50.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.00000' arc='0'/>
+					<POINT pos='0.00000,1.25000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,53.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.15000' arc='0'/>
+					<POINT pos='1.25000,1.40000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,52.40000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.10000' arc='0'/>
+					<POINT pos='0.00000,1.35000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,56.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.05000' arc='0'/>
+					<POINT pos='1.25000,1.30000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,55.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.00000' arc='0'/>
+					<POINT pos='0.00000,1.25000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,60.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+					<POINT pos='1.25000,1.25000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,58.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.15000' arc='0'/>
+					<POINT pos='0.00000,1.40000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,62.40000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.10000' arc='0'/>
+					<POINT pos='1.25000,1.35000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,61.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.05000' arc='0'/>
+					<POINT pos='0.00000,1.30000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,65.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+					<POINT pos='1.25000,1.25000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,63.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.15000' arc='0'/>
+					<POINT pos='0.00000,1.40000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,68.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.15000' arc='0'/>
+					<POINT pos='1.25000,1.40000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,67.40000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.10000' arc='0'/>
+					<POINT pos='0.00000,1.35000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,71.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.05000' arc='0'/>
+					<POINT pos='1.25000,1.30000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,70.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.00000' arc='0'/>
+					<POINT pos='0.00000,1.25000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,73.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.15000' arc='0'/>
+					<POINT pos='1.25000,1.40000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,72.40000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.10000' arc='0'/>
+					<POINT pos='0.00000,1.35000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,77.40000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.10000' arc='0'/>
+					<POINT pos='1.25000,1.35000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,76.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.05000' arc='0'/>
+					<POINT pos='0.00000,1.30000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,80.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+					<POINT pos='1.25000,1.25000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,78.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.15000' arc='0'/>
+					<POINT pos='0.00000,1.40000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,82.40000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.00000,0.10000' arc='0'/>
+					<POINT pos='1.25000,1.35000' arc='2'/>
+				</POLYGON>
+				<POLYGON pos='100.00000,81.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='1.25000,0.05000' arc='0'/>
+					<POINT pos='0.00000,1.30000' arc='1'/>
+				</POLYGON>
+				<POLYGON pos='99.20000,50.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.17500,0.00000' arc='0'/>
+					<POINT pos='0.17500,33.75000' arc='0'/>
+				</POLYGON>
+				<PIN pos='106.25000,50.00000' which='0' elec='0' direction='2' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='106.25000,57.50000' which='0' elec='0' direction='2' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='106.25000,58.75000' which='0' elec='0' direction='2' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='106.25000,67.50000' which='0' elec='0' direction='2' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='106.25000,75.00000' which='0' elec='0' direction='2' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='106.25000,76.25000' which='0' elec='0' direction='2' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='106.25000,83.75000' which='0' elec='0' direction='2' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='92.50000,61.87500' which='0' elec='0' direction='3' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='92.50000,71.87500' which='0' elec='0' direction='3' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<PIN pos='106.25000,66.25000' which='0' elec='0' direction='2' part='0' number='1' show='1' length='25' number_pos='12' centre_name='0'></PIN>
+				<TEXT pos='107.50000,51.25000' direction='3' font='4' color='000000'>9V, 1.1A</TEXT>
+				<TEXT pos='107.50000,60.00000' direction='3' font='3' color='000000'>18V, 0.6A</TEXT>
+				<TEXT pos='107.50000,68.75000' direction='3' font='3' color='000000'>18V, 0.6A</TEXT>
+				<TEXT pos='107.50000,77.50000' direction='3' font='4' color='000000'>9V, 0.3A</TEXT>
+				<TEXT pos='89.68750,68.12500' direction='3' font='3' color='000000'>220V</TEXT>
+				<POLYGON pos='106.20000,50.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.05000,0.00000' arc='0'/>
+					<POINT pos='0.67500,0.62500' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='106.20000,56.80000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.05000,0.70000' arc='0'/>
+					<POINT pos='0.67500,0.07500' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='106.20000,58.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.05000,0.15000' arc='0'/>
+					<POINT pos='0.67500,0.77500' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='106.20000,65.60000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.05000,0.65000' arc='0'/>
+					<POINT pos='0.67500,0.02500' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='106.20000,67.40000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.05000,0.10000' arc='0'/>
+					<POINT pos='0.67500,0.72500' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='106.20000,74.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.05000,0.80000' arc='0'/>
+					<POINT pos='0.67500,0.17500' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='106.20000,76.20000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.05000,0.05000' arc='0'/>
+					<POINT pos='0.67500,0.67500' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='106.20000,83.00000' style='2' fill='0' polygon='0'>
+					<POINT pos='0.05000,0.75000' arc='0'/>
+					<POINT pos='0.67500,0.12500' arc='0'/>
+				</POLYGON>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<POLYGON pos='80.00000,46.20000' style='2' fill='0' polygon='0'>
+			<POINT pos='0.00000,0.05000' arc='0'/>
+			<POINT pos='0.00000,40.05000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='80.00000,46.20000' style='2' fill='0' polygon='0'>
+			<POINT pos='0.00000,0.05000' arc='0'/>
+			<POINT pos='35.00000,0.05000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='115.00000,46.20000' style='2' fill='0' polygon='0'>
+			<POINT pos='0.00000,0.05000' arc='0'/>
+			<POINT pos='0.00000,40.05000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='80.00000,86.20000' style='2' fill='0' polygon='0'>
+			<POINT pos='0.00000,0.05000' arc='0'/>
+			<POINT pos='35.00000,0.05000' arc='0'/>
+		</POLYGON>
+		<SYMBOL id='2' pos='113.75000,83.75000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='TR?' show='0' pos='1.00000,-31.85000'/>
+			<FIELD type='0' description='Name' value='TR' show='0' pos='1.00000,-34.25000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-29.45000'/>
+		</SYMBOL>
+	</TinyCAD>
+</TinyCADSheets>
