@@ -20,6 +20,8 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Ремонт компьютерных колонок Genius SP-G06](https://github.com/drilnet/electronics/tree/master/Speakers%20Genius%20SP-G06 "Что было и Что стало")
 
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
+
 <hr>
 
 **Дополнительные ссылки (бесплатное ПО):**
