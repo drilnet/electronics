@@ -41,9 +41,9 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Images%20-%20Photo/ImagePS_3.png)
 
-Уважаемый соискатель!
+**Уважаемый соискатель!**
 <br>
 Обратите своё внимание на результаты тестов!
 <br>
-Смотрите [pdf-файл](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PS_512.pdf) (смотрите в конце).
+Смотрите [pdf-файл](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PS_512.pdf "Скачать") (смотрите в конце).
 
