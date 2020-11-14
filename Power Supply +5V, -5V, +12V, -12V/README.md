@@ -63,6 +63,12 @@
 
 Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/ "Перейти на сайт https://www.tinycad.net")
 Использовались при рисовании схемы!
-Подключить библиотеку можно: Library => Add...
+Подключить библиотеку можно: **Library** => **Add**...
 
-Файл: [User-Defined Parts.7z]()
+Файл: [User-Defined Parts.7z](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries/User-Defined%20Parts.7z "Скачать")
+
+Посадочные места радиодеталей для программы [ExpressPCB Plus Layout](https://www.expresspcb.com/ "Перейти на сайт https://www.expresspcb.com")
+Использовались при рисовании печатной платы!
+Скопировать в **Windows 7** в **'C:\Users\здесь_имя_пользователя\Documents\ExpressPCB Plus\User-Defined Parts'**
+
+<hr>
