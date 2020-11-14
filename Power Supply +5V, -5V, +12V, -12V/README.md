@@ -77,6 +77,10 @@
 
 <hr>
 
+**Стас!** Ты плохо старался!
+
+<hr>
+
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
