@@ -31,4 +31,4 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PCB%20-%20Images/PS_(DIN5_Inside)_3_640x.png)
 
-В 600dpi: [здесь]()
+В 600dpi: [здесь](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PCB%20-%20Images/PS_(DIN5_Inside)_600dpi_3.png)
