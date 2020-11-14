@@ -29,9 +29,9 @@
 
 ### Печатная плата (негатив)
 
-![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PCB%20-%20Images/PS_512_(DIN5_Inside)_3_640x.png)
+![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PCB%20-%20Images/PS_512_(DIN5_Inside)_3_640x.png "Разводка платы: Демидов С.В.")
 
-В 600dpi: [здесь](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PCB%20-%20Images/PS_512_(DIN5_Inside)_600dpi_3.png "Разводка платы: Демидов С.В.")
+В 600dpi: [здесь](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PCB%20-%20Images/PS_512_(DIN5_Inside)_600dpi_3.png)
 
 **Внимание!**
 <br>
@@ -39,7 +39,7 @@
 
 ### Собранный блок питания
 
-![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Images%20-%20Photo/ImagePS_512_3.png)
+![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Images%20-%20Photo/ImagePS_512_3.png "(C) Демидов С.В.")
 
 **Уважаемый соискатель!**
 <br>
