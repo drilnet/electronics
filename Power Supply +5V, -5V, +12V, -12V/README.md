@@ -39,7 +39,7 @@
 
 ### Собранный блок питания
 
-![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Images%20-%20Photo/ImagePS_3.png)
+![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Images%20-%20Photo/ImagePS_512_3.png)
 
 **Уважаемый соискатель!**
 <br>
