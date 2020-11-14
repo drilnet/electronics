@@ -11,8 +11,8 @@
 
 ### Схема блока питания
 
-Используемые микросхемы: L7805CV (+5В), L7905CV (-5В), L7812CV (+12В), L7912CV (-12В).
-<br>
+Используемые микросхемы: **L7805CV** (+5В), **L7905CV** (-5В), **L7812CV** (+12В), **L7912CV** (-12В).
+
 ![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/SCH%20-%20Images/PS_512_720x471.png "Схему начертил: Демидов С.В.")
 
 В 600dpi: [здесь](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/SCH%20-%20Images/PS_512_600dpi.png)
