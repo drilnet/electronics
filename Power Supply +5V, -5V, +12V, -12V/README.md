@@ -47,3 +47,10 @@
 <br>
 Смотрите [pdf-файл](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PS_512.pdf "Скачать") (смотрите в конце).
 
+<hr>
+
+Схема выполнена в редакторе [TinyCAD Ver. 3.00.01](https://www.tinycad.net/)
+<br>
+Разводка платы - [Express PCB Plus Layout Ver. 1.1.6](https://www.expresspcb.com/)
+
+Файл TinyCAD'а:
