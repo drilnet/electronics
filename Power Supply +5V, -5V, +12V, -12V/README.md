@@ -38,3 +38,7 @@
 Специальную **плёнку** для фотошаблонов или **бумагу** для термопереноса ([технология ЛУТ](https://uk.wikipedia.org/wiki/Лазерно-праскова_технологія "Украинская Википедия")) можно купить [здесь](https://voron.ua/catalog/materials-for-production-and-repair/materials-for-pcb-manufacturing/printer_film "https://voron.ua/")
 
 ### Собранный блок питания
+
+![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Images%20-%20Photo/ImagePS_3.png)
+
+Уважаемый соискатель! Обратите своё внимание на результаты тестов!
