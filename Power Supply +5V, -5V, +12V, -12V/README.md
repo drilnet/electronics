@@ -47,6 +47,10 @@
 <br>
 Смотрите [pdf-файл](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PS_512.pdf "Скачать") (смотрите в конце).
 
+Что огорчает?
+<br>
+**+12В** и **-12В** - Сильный нагрев при токе **0.235А**!
+
 <hr>
 
 Схема выполнена в редакторе [TinyCAD Ver. 3.00.01](https://www.tinycad.net/ "Перейти на сайт https://www.tinycad.net")
