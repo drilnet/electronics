@@ -55,4 +55,4 @@
 
 Файл **TinyCAD'а**: [PS_512.dsn](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/SCH%20-%20Files%20TinyCAD%20(DSN)/PS_512.dsn "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 <br>
-Файл **Express PCB Plus**: [PS_512_(DIN5_Inside).rrb]()
+Файл **Express PCB Plus**: [PS_512_(DIN5_Inside).rrb](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PCB%20-%20Files%20ExpressPCB%20(RRB)/PS_512_(DIN5_Inside).rrb "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
