@@ -13,6 +13,8 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/SCH%20-%20Images/PS_720x471.png)
 
+В 600dpi: [здесь]()
+
 ### Расположение радиодеталей на печатной плате
 
-![]()
+![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/PCB%20-%20Images/PS_(DIN5_Inside)_1_640x.png)
