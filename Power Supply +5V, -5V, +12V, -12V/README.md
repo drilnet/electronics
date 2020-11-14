@@ -49,9 +49,9 @@
 
 <hr>
 
-Схема выполнена в редакторе [TinyCAD Ver. 3.00.01](https://www.tinycad.net/)
+Схема выполнена в редакторе [TinyCAD Ver. 3.00.01](https://www.tinycad.net/ "Перейти на сайт https://www.tinycad.net")
 <br>
-Разводка платы - [Express PCB Plus Layout Ver. 1.1.6](https://www.expresspcb.com/)
+Разводка платы - [Express PCB Plus Layout Ver. 1.1.6](https://www.expresspcb.com/ "Перейти на сайт https://www.expresspcb.com")
 
 Файл **TinyCAD'а**: [PS_512.dsn](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/SCH%20-%20Files%20TinyCAD%20(DSN)/PS_512.dsn "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 <br>
