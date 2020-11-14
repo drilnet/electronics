@@ -102,7 +102,7 @@
 
 Файл: [TinyCADLibrarySt_TEA2025B.TCLib.rar](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203/TinyCADLibrarySt_TEA2025B.TCLib.rar)
 
-Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/)
+Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/ "Перейти на сайт https://www.tinycad.net")
 <br>
 Использовались при рисовании схемы!
 <br>
@@ -110,7 +110,7 @@
 
 Файл: [User-Defined Parts.rar](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%203/User-Defined%20Parts.rar)
 
-Посадочные места радиодеталей для программы [ExpressPCB Plus Layout](https://www.expresspcb.com/)
+Посадочные места радиодеталей для программы [ExpressPCB Plus Layout](https://www.expresspcb.com/ "Перейти на сайт https://www.expresspcb.com")
 <br>
 Использовались при рисовании печатной платы!
 <br>
