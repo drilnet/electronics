@@ -76,3 +76,15 @@
 Скопировать в **Windows 7** в **'C:\Users\здесь_имя_пользователя\Documents\ExpressPCB Plus\User-Defined Parts'**
 
 <hr>
+
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
+
+<hr>
+
+<div align="center">
+<a href="https://github.com/drilnet/electronics">
+[ Вернуться в начало репозитория Electronics ]
+</a>
+</div>
+
+<hr>
