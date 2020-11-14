@@ -91,19 +91,19 @@
 
 <hr>
 
-Схема выполнена в редакторе [TinyCAD Ver. 2.80.08 Build #631](https://www.tinycad.net)
+Схема выполнена в редакторе [TinyCAD Ver. 2.80.08 Build #631](https://www.tinycad.net "Перейти на сайт https://www.tinycad.net")
 <br>
-Разводка платы - [Express PCB Plus Layout Ver. 1.1.6](https://www.expresspcb.com)
+Разводка платы - [Express PCB Plus Layout Ver. 1.1.6](https://www.expresspcb.com "Перейти на сайт https://www.expresspcb.com")
 
-Файл **TinyCAD'а**: [TEA2025B. Схема.dsn](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20dsn%2C%20rrb/TEA2025B.%20%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.dsn)
+Файл **TinyCAD'а**: [TEA2025B. Схема.dsn](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20dsn%2C%20rrb/TEA2025B.%20%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.dsn "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 <br>
-Файл **Express PCB Plus**: [TEA2025B. Печатная плата.rrb](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20dsn%2C%20rrb/TEA2025B.%20%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B0.rrb)
+Файл **Express PCB Plus**: [TEA2025B. Печатная плата.rrb](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B%20dsn%2C%20rrb/TEA2025B.%20%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D0%B0.rrb "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
 Файл: [TinyCADLibrarySt_TEA2025B.TCLib.7z](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/TinyCADLibrarySt_TEA2025B.TCLib.7z)
 
-Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/)
+Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/ "Перейти на сайт https://www.tinycad.net")
 <br>
 Использовались при рисовании схемы!
 <br>
@@ -111,7 +111,7 @@
 
 Файл: [User-Defined Parts.7z](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204/User-Defined%20Parts.7z)
 
-Посадочные места радиодеталей для программы [ExpressPCB Plus Layout](https://www.expresspcb.com/)
+Посадочные места радиодеталей для программы [ExpressPCB Plus Layout](https://www.expresspcb.com/ "Перейти на сайт https://www.expresspcb.com")
 <br>
 Использовались при рисовании печатной платы!
 <br>
