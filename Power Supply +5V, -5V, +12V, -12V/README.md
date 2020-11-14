@@ -53,6 +53,6 @@
 <br>
 Разводка платы - [Express PCB Plus Layout Ver. 1.1.6](https://www.expresspcb.com/)
 
-Файл TinyCAD'а: [PS_512.dsn](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/SCH%20-%20Files%20TinyCAD%20(DSN)/PS_512.dsn "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
+Файл **TinyCAD'а**: [PS_512.dsn](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/SCH%20-%20Files%20TinyCAD%20(DSN)/PS_512.dsn "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 <br>
-Файл Express PCB Plus:
+Файл **Express PCB Plus**: [PS_512_(DIN5_Inside).rrb]()
