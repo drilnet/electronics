@@ -92,6 +92,7 @@
 Я заказывал здесь: **mibox2005@gmail.com**
 <br>
 **Копчинский Леонид Станиславович**
+<br>
 Сайт: [https://mibox.com.ua](https://mibox.com.ua "Перейти на сайт https://mibox.com.ua")
 
 <hr>
