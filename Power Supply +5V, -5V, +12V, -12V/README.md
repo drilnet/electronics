@@ -69,7 +69,7 @@
 
 <hr>
 
-Каталог [Libraries](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries "Перейти в каталог Libraries") файл: [TinyCADLibraySt_Power Supply_+5V_-5V_+12V_-12V.TCLib.7z](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries/TinyCADLibraySt_Power%20Supply_%2B5V_-5V_%2B12V_-12V.TCLib.7z "Скачать")
+Каталог [Libraries](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries "Перейти в каталог Libraries"), файл: [TinyCADLibraySt_Power Supply_+5V_-5V_+12V_-12V.TCLib.7z](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries/TinyCADLibraySt_Power%20Supply_%2B5V_-5V_%2B12V_-12V.TCLib.7z "Скачать")
 
 Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/ "Перейти на сайт https://www.tinycad.net")
 <br>
@@ -77,7 +77,7 @@
 <br>
 Подключить библиотеку можно: **Library** => **Add**...
 
-Каталог [Libraries](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries "Перейти в каталог Libraries") файл: [User-Defined Parts.7z](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries/User-Defined%20Parts.7z "Скачать")
+Каталог [Libraries](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries "Перейти в каталог Libraries"), файл: [User-Defined Parts.7z](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries/User-Defined%20Parts.7z "Скачать")
 
 Посадочные места радиодеталей для программы [ExpressPCB Plus Layout](https://www.expresspcb.com/ "Перейти на сайт https://www.expresspcb.com")
 <br>
