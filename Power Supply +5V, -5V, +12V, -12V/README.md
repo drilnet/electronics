@@ -91,7 +91,7 @@
 
 Я заказывал здесь: [https://mibox.com.ua](https://mibox.com.ua "Перейти на сайт https://mibox.com.ua")
 <br>
-E-mail: [mailto:mibox2005@gmail.com](mailto:mibox2005@gmail.com)
+E-mail: [mibox2005@gmail.com](mailto:mibox2005@gmail.com)
 <br>
 **Копчинский Леонид Станиславович**
 
