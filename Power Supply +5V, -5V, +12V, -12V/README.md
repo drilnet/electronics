@@ -97,6 +97,8 @@ E-mail: [mibox2005@gmail.com](mailto:mibox2005@gmail.com)
 
 <hr>
 
+Сам себе:
+<br>
 **Стас!** Ты плохо старался!
 
 <hr>
