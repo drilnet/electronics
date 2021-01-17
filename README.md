@@ -26,7 +26,7 @@
 
 **Дополнительные ссылки (бесплатное ПО):**
 * Редактор схем: [https://www.tinycad.net](https://www.tinycad.net)
-* Редактор схем и разводка плат (**ExpressPCB**)): [https://www.expresspcb.com](https://www.expresspcb.com)
+* Редактор схем и разводка плат (**ExpressPCB**): [https://www.expresspcb.com](https://www.expresspcb.com)
 * Редактор схем и разводка плат (**DesignSpark**): [https://www.rs-online.com/designspark/pcb-software](https://www.rs-online.com/designspark/pcb-software)
 
 <hr>
