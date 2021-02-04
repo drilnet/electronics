@@ -69,7 +69,7 @@
 
 <hr>
 
-Файл: [TinyCADLibraySt_Power Supply_+5V_-5V_+12V_-12V.TCLib.7z](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries/TinyCADLibraySt_Power%20Supply_%2B5V_-5V_%2B12V_-12V.TCLib.7z "Скачать")
+Файл: [TinyCADLibrarySt_Power_Supply_+5V_-5V_+12V_-12V.TCLib.7z](https://github.com/drilnet/electronics/raw/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V/Libraries/TinyCADLibrarySt_Power_Supply_%2B5V_-5V_%2B12V_-12V.TCLib.7z "Скачать")
 
 Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/ "Перейти на сайт https://www.tinycad.net")
 <br>
