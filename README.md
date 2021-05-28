@@ -31,8 +31,6 @@
 * SPICE-симулятор: [https://www.ti.com/tool/TINA-TI](https://www.ti.com/tool/TINA-TI "TINA-TI")
 * Редактор схем: [https://www.tinycad.net](https://www.tinycad.net "TinyCAD")
 
-<span style="font-size: 8px;">hhhhh</span>
-
 <hr>
 
 **Дополнительные ссылки (коммерческое ПО):**
