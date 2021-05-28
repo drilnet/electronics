@@ -27,7 +27,7 @@
 **Дополнительные ссылки (бесплатное ПО):**
 * Редактор схем и разводка плат: [https://www.rs-online.com/designspark/pcb-software](https://www.rs-online.com/designspark/pcb-software "DesignSpark")
 * Редактор схем и разводка плат: [https://www.expresspcb.com](https://www.expresspcb.com "ExpressPCB")
-* SPICE-симулятор LTspice XVII: [https://www.analog.com/ru/design-center/. . .](https://www.analog.com/ru/design-center/design-tools-and-calculators/ltspice-simulator.html "LTspice XVII")
+* SPICE-симулятор LTspice XVII: [https://www.analog.com/ru/design-center/...](https://www.analog.com/ru/design-center/design-tools-and-calculators/ltspice-simulator.html "LTspice XVII")
 * SPICE-симулятор TINA-TI: [https://www.ti.com/tool/TINA-TI](https://www.ti.com/tool/TINA-TI "TINA-TI")
 * Редактор схем: [https://www.tinycad.net](https://www.tinycad.net "TinyCAD")
 
