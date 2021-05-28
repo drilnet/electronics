@@ -35,19 +35,19 @@ lllll
 
 DesignSpark - Редактор схем и разводка плат.
 <br>
-&nbsp;&nbsp;ExpressPCB - Редактор схем и разводка плат.
+ExpressPCB - Редактор схем и разводка плат.
 <br>
-&nbsp;LTspice XVII - SPICE-симулятор.
+LTspice XVII - SPICE-симулятор.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TINA-TI - SPICE-симулятор (DesignSoft и Texas Instruments), есть поддержка Русского Языка.
+TINA-TI - SPICE-симулятор (DesignSoft и Texas Instruments), есть поддержка Русского Языка.
+<br>
+TinyCAD - Редактор схем.
 
-222
+ооо
 
-<p align="right">
- 777
- <br>
- 888888
- </p>
+<div padding-left="80px">
+olklllll 
+</div>
 
 
 <hr>
