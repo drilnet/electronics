@@ -31,6 +31,24 @@
 * SPICE-симулятор: [https://www.ti.com/tool/TINA-TI](https://www.ti.com/tool/TINA-TI "TINA-TI")
 * Редактор схем: [https://www.tinycad.net](https://www.tinycad.net "TinyCAD")
 
+lllll
+
+DesignSpark - Редактор схем и разводка плат.
+<br>
+&nbsp;&nbsp;ExpressPCB - Редактор схем и разводка плат.
+<br>
+&nbsp;LTspice XVII - SPICE-симулятор.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TINA-TI - SPICE-симулятор (DesignSoft и Texas Instruments), есть поддержка Русского Языка.
+
+222
+
+<div align="right" width="100px">
+ 777
+ <br>
+ 888888
+ </div>
+
 <hr>
 
 **Дополнительные ссылки (коммерческое ПО):**
