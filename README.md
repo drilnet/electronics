@@ -43,11 +43,12 @@ DesignSpark - Редактор схем и разводка плат.
 
 222
 
-<div align="right" width="100px">
+<p align="right">
  777
  <br>
  888888
- </div>
+ </p>
+
 
 <hr>
 
