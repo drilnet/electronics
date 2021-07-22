@@ -1,1 +1,10 @@
-qwerty
+# Hobby
+[GITHUB](https://github.com) - Моя записная книжка (наброски, заметки и т.д. и т.п.)!
+
+<hr>
+
+## QWERTY
+
+Лицензия (License): **Free**.
+
+![](https://github.com/drilnet/electronics/blob/master/UA.png)
