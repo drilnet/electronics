@@ -9,7 +9,7 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
-### Четыре разных расчёта!
+### Формулы и Расчёты
 
 Формулы и Расчёты. Вариант 1:
 
