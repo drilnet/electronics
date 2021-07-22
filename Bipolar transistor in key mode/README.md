@@ -17,6 +17,12 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).pdf)
 
+Расчёт 2:
+
+&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%202%20(draft).odt)
+<br>
+&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%202%20(draft).pdf)
+
 <hr>
 
 <div align="center">
