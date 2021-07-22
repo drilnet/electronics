@@ -35,6 +35,8 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%204%20(draft).%20Transistor%20%26%20Svetodiod.pdf "Расчёт 4")
 
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
+
 <hr>
 
 <div align="center">
