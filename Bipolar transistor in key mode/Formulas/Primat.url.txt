@@ -1,0 +1,2 @@
+Редактор уравнений LaTeX
+http://primat.org/mathred/mathred.html
