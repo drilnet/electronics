@@ -9,10 +9,10 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
-### Четыре разных расчёта
+### Четыре разных расчёта!
 
 Расчёт 1.
 
-[Формулы и Расчёты в формате LibreOffice]()
+[Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).odt)
 <br>
-[Формулы и Расчёты в pdf-формате]()
+[Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).pdf)
