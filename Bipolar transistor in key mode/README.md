@@ -9,8 +9,6 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
-### Формулы и Расчёты
-
 Формулы и Расчёты. Вариант 1:
 
 &nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).odt "Формулы и Расчёты. Вариант 1")
