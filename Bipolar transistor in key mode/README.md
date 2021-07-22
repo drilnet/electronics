@@ -32,13 +32,12 @@
 &nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%204%20(draft).%20Transistor%20%26%20Svetodiod.odt "Формулы и Расчёты. Вариант 4")
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%204%20(draft).%20Transistor%20%26%20Svetodiod.pdf "Формулы и Расчёты. Вариант 4")
-<br>
-<br>
-[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
 
-Примечание.
+**Примечание.**
 <br>
-Вариант 4 - Подключение светодиода к ТТЛ-микросхемами (не к открытому коллектору)
+Вариант 4 - Подключение светодиода к ТТЛ-микросхемами (не к открытому коллектору).
+
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
 
 <hr>
 
