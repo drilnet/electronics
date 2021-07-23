@@ -6,6 +6,8 @@
 <br>
 Спасибо [http://primat.org](http://primat.org)
 
+Онлайн-калькулятор [здесь](https://drilnet.github.io/calctransistorkey.html)
+
 <hr>
 
 ### Формулы для онлайн-калькулятора CALCTRANSISTORKEY (Calc 1).
