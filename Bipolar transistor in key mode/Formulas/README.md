@@ -1,3 +1,6 @@
+;lm;lm;,;
+lm;l jlk lhli
+
 ## Изображения формул
 
 Формулы сделаны с помощью [редактора формул](http://primat.org/mathred/mathred.html "WEB-редактор формул") (**LaTex**)
