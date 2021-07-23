@@ -42,15 +42,15 @@
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2010.%20Find%20Rbe.png)
 
-Находим рассеиваемую мощность на резисторе R1 (P1):
+Находим рассеиваемую мощность на резисторе R1:
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2011.%20Find%20P1.png)
 
-Находим рассеиваемую мощность на резисторе R2 (P2):
+Находим рассеиваемую мощность на резисторе R2:
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2012.%20Find%20P2.png)
 
-Находим рассеиваемую мощность на транзисторе T1 (P3):
+Находим рассеиваемую мощность на транзисторе T1:
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2013.%20Find%20P3.png)
 
