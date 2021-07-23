@@ -18,6 +18,15 @@
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2004.%20Find%20Ubc.png)
 
+Находим ток коллектора:
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2005.%20Find%20Ic.png)
+
+Находи ток базы:
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2006.%20Find%20Ib.png)
+
+Находим ток эмиттера:
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2007.%20Find%20Ie.png)
+
 <hr>
 
 
