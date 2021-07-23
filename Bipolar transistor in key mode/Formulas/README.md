@@ -476,3 +476,7 @@
 Текстовый файл с макрорасширениями: [Primat.Formulas.txt](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/Primat.Formulas.txt)
 
 <hr>
+
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
+
+<hr>
