@@ -140,6 +140,36 @@
 <br>
 Файл: [2. Formula 08. Find R2.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2008.%20Find%20R2.png "Находим сопротивление резистора R2")
 
+Находим сопротивление коллектор-эмиттер:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2009.%20Find%20Rce.png)
+<br>
+Файл: [2. Formula 09. Find Rce.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2009.%20Find%20Rce.png "Находим сопротивление коллектор-эмиттер")
+
+Находим сопротивление база-эмиттер:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2010.%20Find%20Rbe.png)
+<br>
+Файл: [2. Formula 10. Find Rbe.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2010.%20Find%20Rbe.png "2. Formula 10. Find Rbe.png")
+
+Находим рассеиваемую мощность на резисторе R1:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2011.%20Find%20P1.png)
+<br>
+Файл: [2. Formula 11. Find P1.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2011.%20Find%20P1.png "Находим рассеиваемую мощность на резисторе R1")
+
+Находим рассеиваемую мощность на резисторе R2:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2012.%20Find%20P2.png)
+<br>
+Файл: [2. Formula 12. Find P2.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2012.%20Find%20P2.png "Находим рассеиваемую мощность на резисторе R2")
+
+Находим рассеиваемую мощность на транзисторе T1
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2013.%20Find%20P3.png)
+<br>
+Файл: [2. Formula 13. Find P3.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2013.%20Find%20P3.png "Находим рассеиваемую мощность на транзисторе T1")
+
 <hr>
 
 ojklj; hkjh;
