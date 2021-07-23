@@ -305,4 +305,22 @@
 <br>
 Файл: [4. Formula 06. Find Rt2.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2006.%20Find%20Rt2.png "Находим суммарное сопротивление Rt2")
 
+Находим ток коллектора:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2007.%20Find%20Ic.png)
+<br>
+Файл: [4. Formula 07. Find Ic.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2007.%20Find%20Ic.png "Находим ток коллектора")
+
+Находим ток базы:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2008.%20Find%20Ib.png)
+<br>
+Файл: [4. Formula 08. Find Ib.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2008.%20Find%20Ib.png "Находим ток базы")
+
+Находим ток эмиттера:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2009.%20Find%20Ie.png)
+<br>
+Файл: [4. Formula 09. Find Ie.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2009.%20Find%20Ie.png "Находим ток эмиттера")
+
 <hr>
