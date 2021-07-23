@@ -30,6 +30,10 @@
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2007.%20Find%20Ie.png)
 
+Находим сопротивление R1:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2008.%20Find%20R1.png)
+
 <hr>
 
 
