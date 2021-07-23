@@ -298,4 +298,11 @@
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2005.%20Find%20Rt1.png)
 <br>
 Файл: [4. Formula 05. Find Rt1.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2005.%20Find%20Rt1.png "Находим суммарное сопротивление Rt1")
+
+Находим суммарное сопротивление Rt2 (это сумма сопротивлений: R2 + RHL1 + Rce):
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2006.%20Find%20Rt2.png)
+<br>
+Файл: [](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/4.%20Formula%2006.%20Find%20Rt2.png "Находим суммарное сопротивление Rt2")
+
 <hr>
