@@ -190,7 +190,7 @@
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2003.%20Find%20Ubc.png)
 <br>
-Файл: [2. Formula 03. Find Ubc.png]( "Находим напряжение база-коллектор")
+Файл: [2. Formula 03. Find Ubc.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2003.%20Find%20Ubc.png "Находим напряжение база-коллектор")
 
 Находим напряжение база-коллектор:
 <br>
