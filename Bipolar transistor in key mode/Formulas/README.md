@@ -8,7 +8,7 @@
 
 <hr>
 
-### Формулы. Вариант 1:
+### Формулы для онлайн-калькулятора CALCTRANSISTORKEY (Calc 1).
 
 Находим напряжение на резисторе R1:
 <br>
@@ -87,10 +87,6 @@
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2013.%20Find%20P3.png)
 <br>
 Файл: [1. Formula 13. Find P3.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2013.%20Find%20P3.png "Находим рассеиваемую мощность на транзисторе T1")
-
-**Примечание.**
-<br>
-Формулы создавались для онлайн-калькулятора **CALCTRANSISTORKEY** (Calc 1).
 
 <hr>
 
