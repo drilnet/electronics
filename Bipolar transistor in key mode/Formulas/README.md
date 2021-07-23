@@ -231,15 +231,15 @@
 
 Находим сопротивление коллектор-эмиттер:
 <br>
-![]()
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2011.%20Find%20Rce.png)
 <br>
-Файл: [] "Находим сопротивление коллектор-эмиттер")
+Файл: [3. Formula 11. Find Rce.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2011.%20Find%20Rce.png "Находим сопротивление коллектор-эмиттер")
 
 Находим сопротивление база-эмиттер:
 <br>
-![]()
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2012.%20Find%20Rbe.png)
 <br>
-Файл: []( "Находим сопротивление база-эммитер")
+Файл: [3. Formula 12. Find Rbe.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2012.%20Find%20Rbe.png "Находим сопротивление база-эммитер")
 
 <hr>
 
