@@ -88,6 +88,7 @@
 <br>
 Файл: [1. Formula 13. Find P3.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2013.%20Find%20P3.png)
 
+**Примечание.**
 Формулы используются в онлайн калькуляторе **CALCTRANSISTORKEY** (Calc 1).
 
 <hr>
