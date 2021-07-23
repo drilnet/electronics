@@ -116,6 +116,30 @@
 <br>
 Файл: [2. Formula 04. Find Ubc.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2004.%20Find%20Ubc.png "Находим напряжение база-коллектор")
 
+Находим то базы:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2005.%20Find%20Ib.png)
+<br>
+Файл: [2. Formula 05. Find Ib.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2005.%20Find%20Ib.png "Находим ток базы")
+
+Находим ток эмиттера:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2006.%20Find%20Ie.png)
+<br>
+Файл: [2. Formula 06. Find Ie.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2006.%20Find%20Ie.png "Находим ток эмиттера")
+
+Находим сопротивление резистора R1:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2007.%20Find%20R1.png)
+<br>
+Файл: [2. Formula 07. Find R1.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2007.%20Find%20R1.png "Находим сопротивление резистора R1")
+
+Находим сопротивление резистора R2:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2008.%20Find%20R2.png)
+<br>
+Файл: [2. Formula 08. Find R2.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2008.%20Find%20R2.png "Находим сопротивление резистора R2")
+
 <hr>
 
 ojklj; hkjh;
