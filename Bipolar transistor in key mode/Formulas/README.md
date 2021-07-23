@@ -150,7 +150,7 @@
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2010.%20Find%20Rbe.png)
 <br>
-Файл: [2. Formula 10. Find Rbe.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2010.%20Find%20Rbe.png "2. Formula 10. Find Rbe.png")
+Файл: [2. Formula 10. Find Rbe.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/2.%20Formula%2010.%20Find%20Rbe.png "Находим сопротивление база-эмиттер:")
 
 Находим рассеиваемую мощность на резисторе R1:
 <br>
