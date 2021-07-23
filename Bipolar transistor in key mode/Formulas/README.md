@@ -198,6 +198,18 @@
 <br>
 Файл: [3. Formula 04. Find Ubc.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2004.%20Find%20Ubc.png "Находим напряжение база-коллектор")
 
+Находим ток базы:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2006.%20Find%20Ib.png)
+<br>
+Файл: [3. Formula 06. Find Ib.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2006.%20Find%20Ib.png "Находим ток базы")
+
+Находим ток эмиттера:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2007.%20Find%20Ie.png)
+<br>
+Файл: [3. Formula 07. Find Ie.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2007.%20Find%20Ie.png "Находим ток эмиттера")
+
 <hr>
 
 ojklj; hkjh;
