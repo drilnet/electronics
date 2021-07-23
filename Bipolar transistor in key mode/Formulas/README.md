@@ -5,18 +5,26 @@
 Находим напряжение на резисторе R1:
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2001.%20Find%20UR1.png)
+<br>
+Файл: [1. Formula 01. Find UR1.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2001.%20Find%20UR1.png)
 
 Находим напряжение на резисторе R2:
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2002.%20Find%20UR2.png)
+<br>
+Файл: [1. Formula 02. Find UR2.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2002.%20Find%20UR2.png)
 
 Находим напряжение база-коллектор:
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2003.%20Find%20Ubc.png)
+<br>
+Файл: [1. Formula 03. Find Ubc.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2003.%20Find%20Ubc.png)
 
 Находим напряжение база-коллектор:
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2004.%20Find%20Ubc.png)
+<br>
+Файл: [1. Formula 04. Find Ubc.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2004.%20Find%20Ubc.png)
 
 Находим ток коллектора:
 <br>
