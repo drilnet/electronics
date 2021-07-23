@@ -241,6 +241,30 @@
 <br>
 Файл: [3. Formula 12. Find Rbe.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2012.%20Find%20Rbe.png "Находим сопротивление база-эммитер")
 
+Находим рассеиваемую мощность на резисторе R1:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2013.%20Find%20P1.png)
+<br>
+Файл: [3. Formula 13. Find P1.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2013.%20Find%20P1.png "Находим рассеиваемую мощность на резисторе R1")
+
+Находим рассеиваемую мощность на резисторе R2:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2014.%20Find%20P2.png)
+<br>
+Файл: [3. Formula 14. Find P2.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2014.%20Find%20P2.png "Находим рассеиваемую мощность на резисторе R2")
+
+Находим рассеиваемую мощность на транзисторе T1
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2015.%20Find%20P3.png)
+<br>
+Файл: [3. Formula 15. Find P3.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2015.%20Find%20P3.png "Находим рассеиваемую мощность на транзисторе T1")
+
+Находим рассеиваемую мощность на светодиоде HL1
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2016.%20Find%20P4.png)
+<br>
+Файл: [3. Formula 16. Find P4.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2016.%20Find%20P4.png "Находим рассеиваемую мощность на транзисторе HL1")
+
 <hr>
 
 ojklj; hkjh;
