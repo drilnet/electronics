@@ -539,7 +539,7 @@ RHL1 - сопротивление светодиода (RHL1 на схеме н�
 
 	P1 = UR1 * Ib              =>   \Large{ P\textit{1} = UR\textit{1} \cdot Ib }
 	P2 = UR2 * Ic              =>   \Large{ P\textit{2} = UR\textit{2} \cdot Ic }
-	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib+Uce \cdot Ic }
+	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib + Uce \cdot Ic }
         
 	Calc 3.
         -------
@@ -563,7 +563,7 @@ RHL1 - сопротивление светодиода (RHL1 на схеме н�
 
 	P1 = UR1 * Ib              =>   \Large{ P\textit{1} = UR\textit{1} \cdot Ib }
 	P2 = UR2 * Ic              =>   \Large{ P\textit{2} = UR\textit{2} \cdot Ic }
-	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib+Uce \cdot Ic }
+	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib + Uce \cdot Ic }
         P4 = UHL1 * Ic             =>   \Large{ P\textit{4} = UHL\textit{1} \cdot Ic }
 
         Calc 4.
@@ -591,7 +591,7 @@ RHL1 - сопротивление светодиода (RHL1 на схеме н�
 
 	P1 = UR1 * Ib              =>   \Large{ P\textit{1} = UR\textit{1} \cdot Ib }
 	P2 = UR2 * Ic              =>   \Large{ P\textit{2} = UR\textit{2} \cdot Ic }
-	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib+Uce \cdot Ic }
+	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib + Uce \cdot Ic }
         P4 = UHL1 * Ic             =>   \Large{ P\textit{4} = UHL\textit{1} \cdot Ic }
 ```
 Текстовый файл с макрорасширениями: [Primat.Formulas.txt](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/Primat.Formulas.txt)
