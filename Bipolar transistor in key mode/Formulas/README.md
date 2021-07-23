@@ -223,6 +223,24 @@
 <br>
 Файл: [3. Formula 09. Find R2.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2009.%20Find%20R2.png "Находим сопротивление резистора R2")
 
+Находим сопротивление светодиода:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2010.%20Find%20RHL1.png)
+<br>
+Файл: [3. Formula 10. Find RHL1.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/3.%20Formula%2010.%20Find%20RHL1.png "Находим сопротивление светодиода")
+
+Находим сопротивление коллектор-эмиттер:
+<br>
+![]()
+<br>
+Файл: [] "Находим сопротивление коллектор-эмиттер")
+
+Находим сопротивление база-эмиттер:
+<br>
+![]()
+<br>
+Файл: []( "Находим сопротивление база-эммитер")
+
 <hr>
 
 ojklj; hkjh;
