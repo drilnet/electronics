@@ -52,11 +52,11 @@
 <br>
 Файл: [1. Formula 07. Find Ie.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2007.%20Find%20Ie.png "Находим ток эмиттера")
 
-Находим сопротивление R1:
+Находим сопротивление резистора R1:
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2008.%20Find%20R1.png)
 <br>
-Файл: [1. Formula 08. Find R1.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2008.%20Find%20R1.png "Находим сопротивление R1")
+Файл: [1. Formula 08. Find R1.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2008.%20Find%20R1.png "Находим сопротивление резистора R1")
 
 Находим сопротивление коллектор-эмиттер:
 <br>
@@ -68,7 +68,7 @@
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2010.%20Find%20Rbe.png)
 <br>
-Файл: [1. Formula 10. Find Rbe.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2010.%20Find%20Rbe.png "Находим сопротивление коллектор-эмиттер")
+Файл: [1. Formula 10. Find Rbe.png](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2010.%20Find%20Rbe.png "Находим сопротивление база-эмиттер")
 
 Находим рассеиваемую мощность на резисторе R1:
 <br>
