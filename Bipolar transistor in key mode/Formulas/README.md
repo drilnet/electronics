@@ -34,7 +34,26 @@
 <br>
 ![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2008.%20Find%20R1.png)
 
+Находим сопротивление коллектор-эмиттер:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2009.%20Find%20Rce.png)
+
+Находим сопротивление база-эмиттер:
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2010.%20Find%20Rbe.png)
+
+Рассеиваемая мощность на резисторе R1 (P1):
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2011.%20Find%20P1.png)
+
+Рассеиваемая мощность на резисторе R2 (P2):
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2012.%20Find%20P2.png)
+
+Рассеиваемая мощность на транзисторе T1 (P3):
+<br>
+![](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Formulas/1.%20Formula%2013.%20Find%20P3.png)
+
 <hr>
 
-
-jhlkkojklj; hkjh;
+ojklj; hkjh;
