@@ -8,7 +8,7 @@
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 <br>
 <br>
-![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png "Заставка")
+![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png "Заставка 1")&nbsp;&nbsp;&nbsp;![](https://github.com/drilnet/electronics/blob/master/Miniature%203.png "Заставка 2")
 <br>
 ### Список:
 
