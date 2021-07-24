@@ -28,9 +28,13 @@
 &nbsp;&nbsp;&nbsp;&bull; [Стабилизированный блок питания +5В/1А, -5В/0.3A, +12В/0.5А, -12В/0.5А](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V "Трансформаторный (используемые микросхемы: L7805CV, L7905CV, L7812CV, L7912CV)")
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Ремонт компьютерных колонок Genius SP-G06](https://github.com/drilnet/electronics/tree/master/Speakers%20Genius%20SP-G06 "Что было и Что стало")
-
+<br>
+<br>
+<br>
 <a href="https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V"><img src="https://github.com/drilnet/electronics/blob/master/Miniature%205.png" title="Стабилизированный блок питания +5В/1А, -5В/0.3A, +12В/0.5А, -12В/0.5А"></a>
-
+<br>
+<br>
+<br>
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
 
 <hr>
