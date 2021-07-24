@@ -7,8 +7,7 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
-![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png)
-
+![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png "Заставка")
 ### Список:
 
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
