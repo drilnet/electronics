@@ -20,6 +20,7 @@
 3. Найдите и откройте файл **calcdivr2.html** в любом браузере ([Google Chrome](https://www.google.com/intl/ru/chrome/), [Opera](https://www.opera.com/ru/download) и др.)!
 
 Ниже приведён скриншот онлайн-калькулятора **CALCDIVR2**, расчёта **n1**
+<br>
 Размер скриншота уменьшен!
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Screenshot%201.png "(C) Демидов С.В.")
