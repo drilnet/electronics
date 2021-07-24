@@ -3,9 +3,6 @@
 
 <hr>
 
-gfdfxgxd fgdf g
-dfgdfzg  dfgdszfgfdxz dfsgdf
-
 ## Делитель напряжения на двух резисторах<br>(формулы, расчёты, калькулятор на HTML + JS)
 
 Лицензия (License): **Free**.
@@ -24,7 +21,7 @@ dfgdfzg  dfgdszfgfdxz dfsgdf
 
 Ниже приведён скриншот расчёта n1 (размер скриншота уменьшен).
 
-![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/CALCDIVR2_Screenshot_n1.png "(C) Демидов С.В.")
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Screenshot%201.png "(C) Демидов С.В.")
 
 ### Архивный файл 'Resistor Divider (2 Resistors).7z'
 
