@@ -8,9 +8,15 @@
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 <br>
 <br>
-![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png "Заставка 1")&nbsp;&nbsp;&nbsp;
-![](https://github.com/drilnet/electronics/blob/master/Miniature%203.png "Заставка 2")&nbsp;&nbsp;&nbsp;
-![](https://github.com/drilnet/electronics/blob/master/Miniature%204.png)
+<img src="https://github.com/drilnet/electronics/blob/master/Miniature%202.png">
+&nbsp;&nbsp;
+<a href="https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B">
+<img src="https://github.com/drilnet/electronics/blob/master/Miniature%203.png" title="Усилитель звука на микросхеме TEA2025B (нажмите)">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist">
+<img src="https://github.com/drilnet/electronics/blob/master/Miniature%204.png" title="Ящик для экспонирования ФОТОРЕЗИСТА (нажмите)">
+</a>
 <br>
 ### Список:
 
