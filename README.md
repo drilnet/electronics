@@ -8,7 +8,9 @@
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 <br>
 <br>
-![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png "Заставка 1")&nbsp;&nbsp;&nbsp;![](https://github.com/drilnet/electronics/blob/master/Miniature%203.png "Заставка 2")&nbsp;&nbsp;&nbsp;![](https://github.com/drilnet/electronics/blob/master/Miniature%204.png)
+![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png "Заставка 1")&nbsp;&nbsp;&nbsp;
+![](https://github.com/drilnet/electronics/blob/master/Miniature%203.png "Заставка 2")&nbsp;&nbsp;&nbsp;
+![](https://github.com/drilnet/electronics/blob/master/Miniature%204.png)
 <br>
 ### Список:
 
