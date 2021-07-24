@@ -15,9 +15,9 @@
 
 ### Калькулятор на HTML + JS<br>Одиннадцать разных расчётов!
 
-1. Скачайте весь **Electronics** (перейдите в [Electronics](https://github.com/drilnet/electronics "Ctrl + Левой кнопкой мыши по ссылке (откроется в новой вкладке)"), найдите **"Code"**, потом **"Download ZIP"**)!
+1. Скачайте весь **Electronics** (перейдите в [Electronics](https://github.com/drilnet/electronics "Ctrl + Левой кнопкой мыши по ссылке! Откроется в новой вкладке!"), найдите **"Code"**, потом **"Download ZIP"**)!
 2. Распакуйте архив!
-3. Найдите и откройте файл **calcdivr2.html** в любом браузере ([Google Chrome](https://www.google.com/intl/ru/chrome/ "Ctrl + Левой кнопкой мыши по ссылке (откроется в новой вкладке)"), [Opera](https://www.opera.com/ru/download "Ctrl + Левой кнопкой мыши по ссылке (откроется в новой вкладке)") и др.)!
+3. Найдите и откройте файл **calcdivr2.html** в любом браузере ([Google Chrome](https://www.google.com/intl/ru/chrome/ "Ctrl + Левой кнопкой мыши по ссылке! Откроется в новой вкладке!"), [Opera](https://www.opera.com/ru/download "Ctrl + Левой кнопкой мыши по ссылке! Откроется в новой вкладке!") и др.)!
 
 Ниже приведён скриншот онлайн-калькулятора **CALCDIVR2** (расчёт **n1**).
 <br>
