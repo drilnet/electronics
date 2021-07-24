@@ -3,6 +3,9 @@
 
 <hr>
 
+gfdfxgxd fgdf g
+dfgdfzg  dfgdszfgfdxz dfsgdf
+
 ## Делитель напряжения на двух резисторах<br>(формулы, расчёты, калькулятор на HTML + JS)
 
 Лицензия (License): **Free**.
