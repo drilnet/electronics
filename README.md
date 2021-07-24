@@ -7,6 +7,8 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
+![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png)
+
 ### Список:
 
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
