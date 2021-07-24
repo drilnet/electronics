@@ -25,6 +25,8 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Screenshot%201.png "(C) Демидов С.В.")
 
+Данный **онлайн-калькулятор** есть у меня на сайте: [ссылка](https://drilnet.github.io/calcdivr2.html "Ctrl + Левой кнопкой мыши по ссылке! Откроется в новой вкладке!")
+
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
