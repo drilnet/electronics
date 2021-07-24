@@ -6,8 +6,10 @@
 ## Electronics (всё в одном репозитории)
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
-
+<br>
+<br>
 ![](https://github.com/drilnet/electronics/blob/master/Miniature%202.png "Заставка")
+<br>
 ### Список:
 
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
