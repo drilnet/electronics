@@ -1,11 +1,22 @@
 ## Формулы
 
-Наведите курсор мыши на формулу (будет подсказка)!
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Circuit/Divider%20Circuit%20With%202%20Resistors%20(b)%20-%20200dpi.png)
+<br>
+<br>
 
+lkl;k[ lk;lk'lk lk;k 
+llll
 <br>
+
+Наведите курсор мыши на формулу (будет подсказка)!
+<br>
+
+<table>
+<tr>
+<td>
+  
 Находим ток в цепи (I):
-<br>
-<br>
+
 <table>
 <tr>
 
@@ -39,9 +50,12 @@
 [Find I (var1) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20200dpi.png),&nbsp;
 [Find I (var1) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20300dpi.png),&nbsp;
 [Find I (var1) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20600dpi.png)
-<br>
-<br>
+
 Ток I (var 1) в формате LibreOffice: [Find I (var1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1).odf)
+<br>
+  </td>
+</tr>
+</table>
 
 <br>
 Находим ток в цепи (I):
@@ -69,7 +83,6 @@
 <td>
 <img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20300dpi.png" title="300dpi">
 </td>
-
 </tr>
 </table>
 
