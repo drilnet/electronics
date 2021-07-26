@@ -9,23 +9,42 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
-Формулы и Расчёты. Вариант 1:
-
-&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).odt "Формулы и Расчёты. Вариант 1")
+<table>
+<tr>
+<td>
 <br>
-&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).pdf "Формулы и Расчёты. Вариант 1")
-
-Формулы и Расчёты. Вариант 2:
-
-&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%202%20(draft).odt "Формулы и Расчёты. Вариант 2")
+&nbsp;&nbsp;<img src="https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).%20Scheme%20Transistor%20150dpi%20-%202.png">&nbsp;&nbsp;
 <br>
-&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%202%20(draft).pdf "Формулы и Расчёты. Вариант 2")
+<br>
+</td>
+<td>
+&nbsp;&nbsp;Формулы и Расчёты. Вариант 1:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).odt "Формулы и Расчёты. Вариант 1")&nbsp;&nbsp;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%201%20(draft).pdf "Формулы и Расчёты. Вариант 1")
+
+&nbsp;&nbsp;Формулы и Расчёты. Вариант 2:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%202%20(draft).odt "Формулы и Расчёты. Вариант 2")&nbsp;&nbsp;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%202%20(draft).pdf "Формулы и Расчёты. Вариант 2")
+    </td>
+  </tr>
+  </table>
+
+<table>
+<tr>
+<td>
+&nbsp;&nbsp;<img src="https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%203%20(draft).%20Scheme%20Transistor%20%26%20Svetodiod%20150dpi%20-%202.png">&nbsp;&nbsp;
+  </td>
+  <td>
 
 Формулы и Расчёты. Вариант 3:
 
-&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%203%20(draft).%20Transistor%20%26%20Svetodiod.odt "Формулы и Расчёты. Вариант 3")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в формате LibreOffice](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%203%20(draft).%20Transistor%20%26%20Svetodiod.odt "Формулы и Расчёты. Вариант 3")&nbsp;&nbsp;
 <br>
-&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%203%20(draft).%20Transistor%20%26%20Svetodiod.pdf "Формулы и Расчёты. Вариант 3")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%203%20(draft).%20Transistor%20%26%20Svetodiod.pdf "Формулы и Расчёты. Вариант 3")
 
 Формулы и Расчёты. Вариант 4:
 
@@ -33,6 +52,11 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%204%20(draft).%20Transistor%20%26%20Svetodiod.pdf "Формулы и Расчёты. Вариант 4")
 
+  </td>
+  </tr>
+  </table>
+    
+    
 **Примечание.**
 <br>
 Вариант 4 - Подключение светодиода к ТТЛ-микросхемам (не к открытому коллектору).
