@@ -69,7 +69,7 @@
 
 **Примечание 2.**
 <br>
-Формулы используются в онлайн-калькуляторе [CALCTRANSISTORKEY](https://drilnet.github.io/calctransistorkey.html)
+Формулы используются в онлайн-калькуляторе [CALCTRANSISTORKEY](https://drilnet.github.io/calctransistorkey.html "Ctrl + Левой кнопкой мыши по ссылке! Откроется в новой вкладке!")
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
