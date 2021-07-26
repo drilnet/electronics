@@ -39,8 +39,8 @@
 <br>
 &nbsp;&nbsp;<img src="https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%203%20(draft).%20Scheme%20Transistor%20%26%20Svetodiod%20150dpi%20-%202.png">&nbsp;&nbsp;
 <br>
-    <br>
-    </td>
+<br>
+</td>
 <td>
 &nbsp;&nbsp;Формулы и Расчёты. Вариант 3:
 
@@ -54,10 +54,9 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Формулы и Расчёты в pdf-формате](https://github.com/drilnet/electronics/blob/master/Bipolar%20transistor%20in%20key%20mode/Calculations%204%20(draft).%20Transistor%20%26%20Svetodiod.pdf "Формулы и Расчёты. Вариант 4")
 
-  </td>
-  </tr>
-  </table>
-    
+</td>
+</tr>
+</table>
     
 **Примечание.**
 <br>
