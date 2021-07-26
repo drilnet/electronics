@@ -70,6 +70,7 @@
 **Примечание 2.**
 <br>
 Формулы используются в онлайн-калькуляторе **CALCTRANSISTORKEY**.
+<br>
 Онлайн-калькулятор [здесь](https://drilnet.github.io/calctransistorkey.html)
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
