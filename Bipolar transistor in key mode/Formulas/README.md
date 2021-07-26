@@ -602,6 +602,6 @@ RHL1 - сопротивление светодиода (RHL1 на схеме н�
 
 <hr>
 
-[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
