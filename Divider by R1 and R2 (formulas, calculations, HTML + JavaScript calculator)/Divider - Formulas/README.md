@@ -74,15 +74,31 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20200dpi.png "200dpi")
 
-[Find Uin (Uout1) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20100dpi.png)
-[Find Uin (Uout1) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20125dpi.png)
+[Find Uin (Uout1) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20100dpi.png),&nbsp;
+[Find Uin (Uout1) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20125dpi.png),&nbsp;
 [Find Uin (Uout1) - 150dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20150dpi.png)
 <br>
-[Find Uin (Uout1) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20200dpi.png)
-[Find Uin (Uout1) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20300dpi.png)
+[Find Uin (Uout1) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20200dpi.png),&nbsp;
+[Find Uin (Uout1) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20300dpi.png),&nbsp;
 [Find Uin (Uout1) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20600dpi.png)
 
 Формула в формате LibreOffice: [Find Uin (Uout1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1).odf)
+
+<hr>
+
+Находим входное напряжение Uin:
+
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20200dpi.png "200dpi")
+
+[Find Uin (Uout2) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20100dpi.png),&nbsp;
+[Find Uin (Uout2) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20125dpi.png),&nbsp;
+[Find Uin (Uout2) - 150dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20150dpi.png)
+<br>
+[Find Uin (Uout2) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20200dpi.png),&nbsp;
+[Find Uin (Uout2) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20300dpi.png),&nbsp;
+[Find Uin (Uout2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20600dpi.png)
+
+Формула в формате LibreOffice: [Find Uin (Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2).odf)
 
 <hr>
 
