@@ -56,7 +56,7 @@
 
 Находим Uout2:
 
-![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1)%20-%20200dpi.png)
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1)%20-%20200dpi.png "200dpi")
 
 [Find Uout2 (Uin - Uout1) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1)%20-%20100dpi.png),&nbsp;
 [Find Uout2 (Uin - Uout1) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1)%20-%20125dpi.png),&nbsp;
