@@ -1,14 +1,14 @@
 ## Формулы
 
-### Схема:
+Формулы для этой схемы (см. ниже):
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Circuit/Divider%20Circuit%20With%202%20Resistors%20(b)%20-%20200dpi.png)
 
-Наведите курсор мыши на формулу (будет подсказка)!
+<hr>
 
 Находим ток в цепи (I):
 
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20300dpi.png" title="300dpi">
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20200dpi.png "200dpi")
 
 [Find I (var1) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20100dpi.png),&nbsp;
 [Find I (var1) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20125dpi.png),&nbsp;
@@ -20,39 +20,11 @@
 
 Формула в формате LibreOffice: [Find I (var1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1).odf)
 
-
-
-<table>
-<tr>
-<td>
+<hr>
 
 Находим ток в цепи (I):
 
-<table>
-<tr>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20100dpi.png" title="100dpi">
-</td>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20125dpi.png" title="125dpi">
-</td>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20150dpi.png" title="150dpi">
-</td>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20200dpi.png" title="200dpi">
-</td>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20300dpi.png" title="300dpi">
-</td>
-
-</tr>
-</table>
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20200dpi.png "200dpi")
 
 [Find I (var2) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20100dpi.png),&nbsp;
 [Find I (var2) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20125dpi.png),&nbsp;
@@ -64,41 +36,11 @@
 
 Формула в формате LibreOffice: [Find I (var2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2).odf)
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
+<hr>
 
 Находим ток в цепи (I):
 
-<table>
-<tr>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20100dpi.png" title="100dpi">
-</td>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20125dpi.png" title="125dpi">
-</td>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20150dpi.png" title="150dpi">
-</td>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20200dpi.png" title="200dpi">
-</td>
-
-<td>
-<img src="https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20300dpi.png" title="300dpi">
-</td>
-
-</tr>
-</table>
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20200dpi.png "200dpi")
 
 [Find I (var3) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20100dpi.png),&nbsp;
 [Find I (var3) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20125dpi.png),&nbsp;
@@ -108,11 +50,10 @@
 [Find I (var3) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20300dpi.png),&nbsp;
 [Find I (var3) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20600dpi.png)
 
-Ток I (var 3) в формате LibreOffice: [Find I (var3).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3).odf)
+Формула в формате LibreOffice: [Find I (var3).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3).odf)
 
-  </td>
-  </tr>
-  </table>
+<hr>
+
 
 <br>
 Находим ток в цепи (I):
