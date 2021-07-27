@@ -6,7 +6,7 @@
 
 <hr>
 
-Находим Uout1:
+Находим выходное напряжение Uout1:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(RU)%20-%20200dpi.png "200dpi")
 
@@ -22,7 +22,7 @@
 
 <hr>
 
-Находим Uout2:
+Находим выходное напряжение Uout2:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(RU)%20-%20200dpi.png "200dpi")
 
@@ -38,7 +38,7 @@
 
 <hr>
 
-Находим Uout1:
+Находим выходное напряжение Uout1:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(Uin%20-%20Uout2)%20-%20200dpi.png "200dpi")
 
@@ -54,7 +54,7 @@
 
 <hr>
 
-Находим Uout2:
+Находим выходное напряжение Uout2:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1)%20-%20200dpi.png "200dpi")
 
@@ -70,7 +70,7 @@
 
 <hr>
 
-Находим входнле напряжение Uin:
+Находим входное напряжение Uin:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20200dpi.png "200dpi")
 
@@ -99,6 +99,22 @@
 [Find Uin (Uout2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20600dpi.png)
 
 Формула в формате LibreOffice: [Find Uin (Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2).odf)
+
+<hr>
+
+Находим входное напряжение Uin:
+
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20200dpi.png "200dpi")
+
+[Find Uin (Uout1 + Uout2) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20100dpi.png),&nbsp;
+[Find Uin (Uout1 + Uout2) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20125dpi.png),&nbsp;
+[Find Uin (Uout1 + Uout2) - 150dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20150dpi.png)
+<br>
+[Find Uin (Uout1 + Uout2) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20200dpi.png),&nbsp;
+[Find Uin (Uout1 + Uout2) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20300dpi.png),&nbsp;
+[Find Uin (Uout1 + Uout2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20600dpi.png)
+
+Формула в формате LibreOffice: [Find Uin (Uout1 + Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2).odf)
 
 <hr>
 
