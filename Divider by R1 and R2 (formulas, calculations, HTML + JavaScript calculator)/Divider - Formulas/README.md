@@ -4,6 +4,10 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Circuit/Divider%20Circuit%20With%202%20Resistors%20(b)%20-%20200dpi.png)
 
+<i>R1</i> - она же переменная, он же резистор R1.
+<br>
+<i>R2</i> - она же переменная, он же резистор R2.
+
 <hr>
 
 Находим выходное напряжение <i>Uout1</i>:
