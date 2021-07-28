@@ -6,7 +6,7 @@
 
 <hr>
 
-Находим выходное напряжение Uout1:
+Находим выходное напряжение <i>Uout1</i>:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(RU)%20-%20200dpi.png "200dpi")
 
@@ -22,7 +22,7 @@
 
 <hr>
 
-Находим выходное напряжение Uout2:
+Находим выходное напряжение <i>Uout2</i>:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(RU)%20-%20200dpi.png "200dpi")
 
@@ -38,7 +38,7 @@
 
 <hr>
 
-Находим выходное напряжение Uout1:
+Находим выходное напряжение <i>Uout1</i>:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(Uin%20-%20Uout2)%20-%20200dpi.png "200dpi")
 
@@ -55,7 +55,7 @@
 
 <hr>
 
-Находим выходное напряжение Uout2:
+Находим выходное напряжение <i>Uout2</i>:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1)%20-%20200dpi.png "200dpi")
 
@@ -72,7 +72,7 @@
 
 <hr>
 
-Находим входное напряжение Uin:
+Находим входное напряжение <i>Uin</i>:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20200dpi.png "200dpi")
 
@@ -88,7 +88,7 @@
 
 <hr>
 
-Находим входное напряжение Uin:
+Находим входное напряжение <i>Uin</i>:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20200dpi.png "200dpi")
 
@@ -104,7 +104,7 @@
 
 <hr>
 
-Находим входное напряжение Uin:
+Находим входное напряжение <i>Uin</i>:
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20200dpi.png "200dpi")
 
@@ -121,6 +121,8 @@
 
 <hr>
 
+Находим сопротивление резистора <i>R1</i>:
+
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var1)%20-%20200dpi.png "200dpi")
 
 [Find R1 (var1) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var1)%20-%20100dpi.png)
@@ -135,7 +137,7 @@
 
 <hr>
 
-Находим ток в цепи (I):
+Находим ток в цепи (<i>I</i>):
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20200dpi.png "200dpi")
 
@@ -151,7 +153,7 @@
 
 <hr>
 
-Находим ток в цепи (I):
+Находим ток в цепи (<i>I</i>):
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20200dpi.png "200dpi")
 
@@ -167,7 +169,7 @@
 
 <hr>
 
-Находим ток в цепи (I):
+Находим ток в цепи (<i>I</i>):
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20200dpi.png "200dpi")
 
@@ -183,7 +185,7 @@
 
 <hr>
 
-Находим ток в цепи (I):
+Находим ток в цепи (<i>I</i>):
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var4)%20-%20200dpi.png "200dpi")
 
