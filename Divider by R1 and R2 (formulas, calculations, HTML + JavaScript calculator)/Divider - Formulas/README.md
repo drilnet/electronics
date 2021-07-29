@@ -26,7 +26,7 @@
 [Find Uout1 (RU) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(RU)%20-%20300dpi.png),&nbsp;
 [Find Uout1 (RU) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(RU)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find Uout1 (RU).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(RU).odf)
+Формула в формате LibreOffice: [Find Uout1 (RU).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(RU).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -42,7 +42,7 @@
 [Find Uout2 (RU) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(RU)%20-%20300dpi.png),&nbsp;
 [Find Uout2 (RU) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(RU)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find Uout2 (RU).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(RU).odf)
+Формула в формате LibreOffice: [Find Uout2 (RU).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(RU).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -59,7 +59,7 @@
 [Find Uout1 (Uin - Uout2) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(Uin%20-%20Uout2)%20-%20300dpi.png),&nbsp;
 [Find Uout1 (Uin - Uout2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(Uin%20-%20Uout2)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find Uout1 (Uin - Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(Uin%20-%20Uout2).odf)
+Формула в формате LibreOffice: [Find Uout1 (Uin - Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout1%20(Uin%20-%20Uout2).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -76,7 +76,7 @@
 [Find Uout2 (Uin - Uout1) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1)%20-%20300dpi.png),&nbsp;
 [Find Uout2 (Uin - Uout1) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find Uout2 (Uin - Uout1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1).odf)
+Формула в формате LibreOffice: [Find Uout2 (Uin - Uout1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uout2%20(Uin%20-%20Uout1).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -92,7 +92,7 @@
 [Find Uin (Uout1) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20300dpi.png),&nbsp;
 [Find Uin (Uout1) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find Uin (Uout1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1).odf)
+Формула в формате LibreOffice: [Find Uin (Uout1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -108,7 +108,7 @@
 [Find Uin (Uout2) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20300dpi.png),&nbsp;
 [Find Uin (Uout2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find Uin (Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2).odf)
+Формула в формате LibreOffice: [Find Uin (Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout2).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -125,7 +125,7 @@
 [Find Uin (Uout1 + Uout2) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20300dpi.png),&nbsp;
 [Find Uin (Uout1 + Uout2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find Uin (Uout1 + Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2).odf)
+Формула в формате LibreOffice: [Find Uin (Uout1 + Uout2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20Uin%20(Uout1%20%2B%20Uout2).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -141,7 +141,7 @@
 [Find R1 (var1) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var1)%20-%20300dpi.png),&nbsp;
 [Find R1 (var1) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var1)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find R1 (var1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var1).odf)
+Формула в формате LibreOffice: [Find R1 (var1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var1).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -157,7 +157,7 @@
 [Find R2 (var1) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var1)%20-%20300dpi.png),&nbsp;
 [Find R2 (var1) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var1)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find R2 (var1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var1).odf)
+Формула в формате LibreOffice: [Find R2 (var1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var1).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -173,7 +173,7 @@
 [Find R1 (var2) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var2)%20-%20300dpi.png),&nbsp;
 [Find R1 (var2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var2)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find R1 (var2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var2).odf)
+Формула в формате LibreOffice: [Find R1 (var2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var2).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -189,7 +189,7 @@
 [Find I (var1) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20300dpi.png),&nbsp;
 [Find I (var1) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find I (var1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1).odf)
+Формула в формате LibreOffice: [Find I (var1).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var1).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -205,7 +205,7 @@
 [Find I (var2) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20300dpi.png),&nbsp;
 [Find I (var2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find I (var2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2).odf)
+Формула в формате LibreOffice: [Find I (var2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var2).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -221,7 +221,7 @@
 [Find I (var3) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20300dpi.png),&nbsp;
 [Find I (var3) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find I (var3).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3).odf)
+Формула в формате LibreOffice: [Find I (var3).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var3).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
@@ -237,7 +237,7 @@
 [Find I (var4) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var4)%20-%20300dpi.png),&nbsp;
 [Find I (var4) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var4)%20-%20600dpi.png)
 
-Формула в формате LibreOffice: [Find I (var4).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var4).odf)
+Формула в формате LibreOffice: [Find I (var4).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20I%20(var4).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
