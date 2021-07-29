@@ -183,15 +183,21 @@
 
 Находим сопротивление резистора R2:
 
-![]()
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var2)%20-%20200dpi.png "200dpi")
 
-[]()
-[]()
-[]()
+[Find R2 (var2) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var2)%20-%20100dpi.png)
+[Find R2 (var2) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var2)%20-%20125dpi.png)
+[Find R2 (var2) - 150dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var2)%20-%20150dpi.png)
 <br>
-[]()
-[]()
-[]()
+[Find R2 (var2) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var2)%20-%20200dpi.png)
+[Find R2 (var2) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var2)%20-%20300dpi.png)
+[Find R2 (var2) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var2)%20-%20600dpi.png)
+
+Формула в формате LibreOffice: [Find R2 (var2).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var2).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
+
+**Примечание.**
+<br>
+<i>Rtotal</i> - суммарное сопротивление резисторов <i>R1</i> + <i>R2</i>.
 
 <hr>
 
