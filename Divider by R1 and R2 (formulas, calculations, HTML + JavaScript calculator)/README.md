@@ -13,6 +13,12 @@
 
 [Divider Circuit With 2 Resistors, ver.4.1.pdf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20Circuit%20With%202%20Resistors%2C%20ver.4.1.pdf "Формулы и Расчёты")
 
+### Формулы и Расчёты в png-формате и формате LibreOffice
+
+[Изображения формул (png) и формулы в формате Libreoffice (odf)](https://github.com/drilnet/electronics/tree/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas "Ctrl + Левой кнопкой мыши по ссылке! Откроется в новой вкладке!")
+<br>
+[Изображения расчётов (png) и расчёты в формате Libreoffice (odf)](https://github.com/drilnet/electronics/tree/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Calculations "Ctrl + Левой кнопкой мыши по ссылке! Откроется в новой вкладке!")
+
 ### Калькулятор на HTML + JS<br>Одиннадцать разных расчётов!
 
 1. Скачайте весь **Electronics** (перейдите в [Electronics](https://github.com/drilnet/electronics "Ctrl + Левой кнопкой мыши по ссылке! Откроется в новой вкладке!"), найдите **"Code"**, потом **"Download ZIP"**)!
