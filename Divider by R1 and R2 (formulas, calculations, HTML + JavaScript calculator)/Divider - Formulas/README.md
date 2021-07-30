@@ -221,15 +221,47 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20200dpi.png "200dpi")
 
-[Find R2 (var3) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20100dpi.png)
-[Find R2 (var3) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20125dpi.png)
+[Find R2 (var3) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20100dpi.png),&nbsp;
+[Find R2 (var3) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20125dpi.png),&nbsp;
 [Find R2 (var3) - 150dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20150dpi.png)
 <br>
-[Find R2 (var3) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20200dpi.png)
-[Find R2 (var3) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20300dpi.png)
+[Find R2 (var3) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20200dpi.png),&nbsp;
+[Find R2 (var3) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20300dpi.png),&nbsp;
 [Find R2 (var3) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3)%20-%20600dpi.png)
 
 Формула в формате LibreOffice: [Find R2 (var3).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var3).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
+
+<hr>
+
+Находим сопротивление резистора R1 (<i>R1</i>):
+
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var4)%20-%20200dpi.png "200dpi")
+
+[Find R1 (var4) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var4)%20-%20100dpi.png),&nbsp;
+[Find R1 (var4) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var4)%20-%20125dpi.png),&nbsp;
+[Find R1 (var4) - 150dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var4)%20-%20150dpi.png)
+<br>
+[Find R1 (var4) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var4)%20-%20200dpi.png),&nbsp;
+[Find R1 (var4) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var4)%20-%20300dpi.png),&nbsp;
+[Find R1 (var4) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var4)%20-%20600dpi.png)
+
+Формула в формате LibreOffice [Find R1 (var4).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R1%20(var4).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
+
+<hr>
+
+Находим сопротивление резистора R2 (<i>R2</i>):
+
+![](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var4)%20-%20200dpi.png "200dpi")
+
+[Find R2 (var4) - 100dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var4)%20-%20100dpi.png),&nbsp;
+[Find R2 (var4) - 125dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var4)%20-%20125dpi.png),&nbsp;
+[Find R2 (var4) - 150dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var4)%20-%20150dpi.png)
+<br>
+[Find R2 (var4) - 200dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var4)%20-%20200dpi.png),&nbsp;
+[Find R2 (var4) - 300dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var4)%20-%20300dpi.png),&nbsp;
+[Find R2 (var4) - 600dpi.png](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var4)%20-%20600dpi.png)
+
+Формула в формате LibreOffice [Find R2 (var4).odf](https://github.com/drilnet/electronics/blob/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator)/Divider%20-%20Formulas/Find%20R2%20(var4).odf "Чтобы скачать! Правой кнопкой мыши: Сохранить ссылку как...")
 
 <hr>
 
