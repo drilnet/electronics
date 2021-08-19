@@ -1,8 +1,8 @@
 Редактор уравнений LaTeX
 http://primat.org/mathred/mathred.html
 
-        Calc 1.
-        -------
+	Calc 1.
+	-------
 
 	UR1 = Uin - Ube   =>   \Large{ UR\textit{1} = Uin - Ube }
 	UR2 = Ucc - Uce   =>   \Large{ UR\textit{2} = Ucc - Uce }
@@ -21,79 +21,79 @@ http://primat.org/mathred/mathred.html
 
 	P1 = UR1 * Ib              =>   \Large{ P\textit{1} = UR\textit{1} \cdot Ib }
 	P2 = UR2 * Ic              =>   \Large{ P\textit{2} = UR\textit{2} \cdot Ic }
-	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib + Uce \cdot Ic }
+	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib+Uce \cdot Ic }
 
-        Calc 2.
-        -------
+	Calc 2.
+	-------
 
-        UR1 = Uin - Ube   =>   \Large{ UR\textit{1} = Uin - Ube }
+	UR1 = Uin - Ube   =>   \Large{ UR\textit{1} = Uin - Ube }
 	UR2 = Ucc - Uce   =>   \Large{ UR\textit{2} = Ucc - Uce }
 
-        Ubc_1 = (Uin - UR1) - (Ucc - UR2)   =>   \Large{ Ubc = (Uin - UR\textit{1}) - (Ucc - UR\textit{2}) }
+	Ubc_1 = (Uin - UR1) - (Ucc - UR2)   =>   \Large{ Ubc = (Uin - UR\textit{1}) - (Ucc - UR\textit{2}) }
 	Ubc_2 = Ube - Uce                   =>   \Large{ Ubc = Ube - Uce }
 
 	Ib = Ic / hFE   =>   \Large{ Ib = \frac{Ic}{hFE} }
 	Ie = Ib + Ic    =>   \Large{ Ie = Ib + Ic }
 
-        R1 = UR1 / Ib   =>   \Large{ R\textit{1} = \frac{UR\textit{1}}{Ib} }
-        R2 = UR2 / Ic   =>   \Large{ R\textit{2} = \frac{UR\textit{2}}{Ic} }
+	R1 = UR1 / Ib   =>   \Large{ R\textit{1} = \frac{UR\textit{1}}{Ib} }
+	R2 = UR2 / Ic   =>   \Large{ R\textit{2} = \frac{UR\textit{2}}{Ic} }
 
 	Rce = Uce / Ic   =>   \Large{ Rce = \frac{Uce}{Ic} }
 	Rbe = Ube / Ib   =>   \Large{ Rbe = \frac{Ube}{Ib} }
 
 	P1 = UR1 * Ib              =>   \Large{ P\textit{1} = UR\textit{1} \cdot Ib }
 	P2 = UR2 * Ic              =>   \Large{ P\textit{2} = UR\textit{2} \cdot Ic }
-	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib + Uce \cdot Ic }
-        
+	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib+Uce \cdot Ic }
+
 	Calc 3.
-        -------
+	-------
 
 	UR1 = Uin - Ube          =>   \Large{ UR\textit{1} = Uin - Ube }
-        UR1 = Ucc - Uce - UHL1   =>   \Large{ UR\textit{2} = Ucc - Uce - UHL\textit{1}}
+	UR1 = Ucc - Uce - UHL1   =>   \Large{ UR\textit{2} = Ucc - Uce - UHL\textit{1}}
 
-        Ubc_1 = (Uin - UR1) - (Ucc - UR2 - UHL1)   =>   \Large{ Ubc = (Uin - UR\textit{1}) - (Ucc - UR\textit{2} - UHL\textit{1}) }
-        Ubc_2 = Ube - Uce                          =>   \Large{ Ubc = Ube - Uce }
+	Ubc_1 = (Uin - UR1) - (Ucc - UR2 - UHL1)   =>   \Large{ Ubc = (Uin - UR\textit{1}) - (Ucc - UR\textit{2} - UHL\textit{1}) }
+	Ubc_2 = Ube - Uce                          =>   \Large{ Ubc = Ube - Uce }
 
 	Ib = Ic / hFE   =>   \Large{ Ib = \frac{Ic}{hFE} }
 	Ie = Ib + Ic    =>   \Large{ Ie = Ib + Ic }
 
-        R1 = UR1 / Ib   =>   \Large{ R\textit{1} = \frac{UR\textit{1}}{Ib} }
-        R2 = UR2 / Ic   =>   \Large{ R\textit{2} = \frac{UR\textit{2}}{Ic} }
+	R1 = UR1 / Ib   =>   \Large{ R\textit{1} = \frac{UR\textit{1}}{Ib} }
+	R2 = UR2 / Ic   =>   \Large{ R\textit{2} = \frac{UR\textit{2}}{Ic} }
 
-        RHL1 = UHL1 / Ic   =>   \Large{ RHL\textit{1} = \frac{UHL\textit{1}}{Ic} }
+	RHL1 = UHL1 / Ic   =>   \Large{ RHL\textit{1} = \frac{UHL\textit{1}}{Ic} }
 
 	Rce = Uce / Ic   =>   \Large{ Rce = \frac{Uce}{Ic} }
 	Rbe = Ube / Ib   =>   \Large{ Rbe = \frac{Ube}{Ib} }
 
 	P1 = UR1 * Ib              =>   \Large{ P\textit{1} = UR\textit{1} \cdot Ib }
 	P2 = UR2 * Ic              =>   \Large{ P\textit{2} = UR\textit{2} \cdot Ic }
-	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib + Uce \cdot Ic }
-        P4 = UHL1 * Ic             =>   \Large{ P\textit{4} = UHL\textit{1} \cdot Ic }
+	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib+Uce \cdot Ic }
+	P4 = UHL1 * Ic             =>   \Large{ P\textit{4} = UHL\textit{1} \cdot Ic }
 
-        Calc 4.
-        -------
+	Calc 4.
+	-------
 
 	UR1 = Uin - Ube          =>   \Large{ UR\textit{1} = Uin - Ube }
-        UR1 = Ucc - Uce - UHL1   =>   \Large{ UR\textit{2} = Ucc - Uce - UHL\textit{1}}
+	UR1 = Ucc - Uce - UHL1   =>   \Large{ UR\textit{2} = Ucc - Uce - UHL\textit{1}}
 
-        Ubc_1 = (Uin - UR1) - (Ucc - UR2 - UHL1)   =>   \Large{ Ubc = (Uin - UR\textit{1}) - (Ucc - UR\textit{2} - UHL\textit{1}) }
-        Ubc_2 = Ube - Uce                          =>   \Large{ Ubc = Ube - Uce }
+	Ubc_1 = (Uin - UR1) - (Ucc - UR2 - UHL1)   =>   \Large{ Ubc = (Uin - UR\textit{1}) - (Ucc - UR\textit{2} - UHL\textit{1}) }
+	Ubc_2 = Ube - Uce                          =>   \Large{ Ubc = Ube - Uce }
 
-        Rt1 = Uin * R1 / UR1   =>   \Large{ Rt\textit{1} = \frac{Uin \cdot R\textit{1}}{UR\textit{1}} }
-        Rt2 = Ucc * R2 / UR2   =>   \Large{ Rt\textit{2} = \frac{Ucc \cdot R\textit{2}}{UR\textit{2}} }
+	Rt1 = Uin * R1 / UR1   =>   \Large{ Rt\textit{1} = \frac{Uin \cdot R\textit{1}}{UR\textit{1}} }
+	Rt2 = Ucc * R2 / UR2   =>   \Large{ Rt\textit{2} = \frac{Ucc \cdot R\textit{2}}{UR\textit{2}} }
 
-        Ic = Ucc / Rt2   =>   \Large{ Ic = \frac{Ucc}{Rt\textit{2}} }
-        Ib = Uin / Rt1   =>   \Large{ Ib = \frac{Uin}{Rt\textit{1}} }
-        Ie = Ib + Ic     =>   \Large{ Ie = Ib + Ic }
+	Ic = Ucc / Rt2   =>   \Large{ Ic = \frac{Ucc}{Rt\textit{2}} }
+	Ib = Uin / Rt1   =>   \Large{ Ib = \frac{Uin}{Rt\textit{1}} }
+	Ie = Ib + Ic     =>   \Large{ Ie = Ib + Ic }
 
-        hFE = Ic / Ib   =>   \Large{ hFE = \frac{Ic}{Ib} }
+	hFE = Ic / Ib   =>   \Large{ hFE = \frac{Ic}{Ib} }
 
-        RHL1 = UHL1 / Ic   =>   \Large{ RHL\textit{1} = \frac{UHL\textit{1}}{Ic} }
+	RHL1 = UHL1 / Ic   =>   \Large{ RHL\textit{1} = \frac{UHL\textit{1}}{Ic} }
 
 	Rce = Uce / Ic   =>   \Large{ Rce = \frac{Uce}{Ic} }
 	Rbe = Ube / Ib   =>   \Large{ Rbe = \frac{Ube}{Ib} }
 
 	P1 = UR1 * Ib              =>   \Large{ P\textit{1} = UR\textit{1} \cdot Ib }
 	P2 = UR2 * Ic              =>   \Large{ P\textit{2} = UR\textit{2} \cdot Ic }
-	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib + Uce \cdot Ic }
-        P4 = UHL1 * Ic             =>   \Large{ P\textit{4} = UHL\textit{1} \cdot Ic }
+	P3 = Ube * Ib + Uce * Ic   =>   \Large{ P\textit{3} = Ube \cdot Ib+Uce \cdot Ic }
+	P4 = UHL1 * Ic             =>   \Large{ P\textit{4} = UHL\textit{1} \cdot Ic }
