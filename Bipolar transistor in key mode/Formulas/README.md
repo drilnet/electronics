@@ -524,7 +524,7 @@ RHL1 - сопротивление светодиода (RHL1 на схеме н�
         Calc 2.
         -------
 
-        UR1 = Uin - Ube   =>   \Large{ UR\textit{1} = Uin - Ube }        
+        UR1 = Uin - Ube   =>   \Large{ UR\textit{1} = Uin - Ube }
 	UR2 = Ucc - Uce   =>   \Large{ UR\textit{2} = Ucc - Uce }
 
         Ubc_1 = (Uin - UR1) - (Ucc - UR2)   =>   \Large{ Ubc = (Uin - UR\textit{1}) - (Ucc - UR\textit{2}) }
