@@ -1,0 +1,260 @@
+/* Написано в FreeBSD, Midnight Commander. */
+/* Ukraine. (C) Demidov S.V. */
+
+	/* Шрифты взяты с: https://github.com/maxwell-k/dejavu-sans-mono-web-font */
+
+	@font-face {
+	font-family: "DejaVu Sans Mono_";
+	font-style: normal;
+	font-weight: normal;
+	src: url(fonts/DejaVuSansMono.woff) format("woff");
+	}
+
+	@font-face {
+	font-family: "DejaVu Sans Mono_";
+	font-style: normal;
+	font-weight: bold;
+	src: url(fonts/DejaVuSansMono-Bold.woff) format("woff");
+	}
+
+	@font-face {
+	font-family: "DejaVu Sans Mono_";
+	font-style: oblique;
+	font-weight: bold;
+	src: url(fonts/DejaVuSansMono-BoldOblique.woff) format("woff");
+	}
+
+	@font-face {
+	font-family: "DejaVu Sans Mono_";
+	font-style: oblique;
+	font-weight: normal;
+	src: url(fonts/DejaVuSansMono-Oblique.woff) format("woff");
+	}
+
+	/* Шрифт и цвет символам */
+
+	body {
+	font-family: DejaVu Sans Mono_;
+	font-size: 73%;
+	color: #333333;
+	}
+
+	/* Цвет ссылкам. */
+
+	a {
+	color: #0144b4;
+	text-decoration: none;
+	}
+
+	a:visited { 
+	color: #0144b4;
+	text-decoration: none;
+	}
+
+	a:hover {
+	color: #0144b4;
+	text-decoration: underline;
+	}
+
+	select {
+	width: 64px;
+	background: #ffffff;
+	}
+
+	/* Кнопка с текстом */
+
+	.txtbutton {
+	background: linear-gradient(to top, #f6f8fa, #ffffff);
+	border: 1px solid #bfd1e5;
+	border-radius: 2px;
+	padding: 4px 10px 4px 10px;
+	}
+
+		/* --- */
+		/* BSS */
+		/* --- */
+
+		/* Ближайшее стандартное сопротивление (БСС) */
+
+		/* BSS */
+		/* Отцентровать */
+
+		.bscenteriframe {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		}
+
+		/* BSS */
+		/* Заголовок */
+
+		.bstitle {
+		background: #f0f4f7;
+		border: 1px solid #f0f4f7;
+		padding: 0px 4px 0px 4px;
+		height: 16px;
+		color: #022169;
+		width: 800px;
+		font-size: 1.2em; /* 14px */
+		}
+
+		/* BSS */
+		/* Горизонтальная линия, для онлайн калькулятора БСС */
+
+		.bs_hr {
+		width: 800px;
+		}
+
+		/* BSS */
+		/* Фон и бордюр, для онлайн калькулятора БСС */
+
+		.bsbg1 {
+		background: #ffffff;
+		border: 1px solid #c3c6c6;
+		padding: 12px 12px 6px 12px;
+		}
+
+		/* BSS */
+		/* Фон и бордюр, для онлайн калькулятора БСС */
+		/* Выбор E24, E48, E96 */
+
+		.bsbg2 {
+		background: #ffffff;
+		border: 1px solid #c3c6c6;
+		padding: 6px;
+		}
+
+		/* BSS */
+		/* Фон и бордюр, для: Введите сопротивление */
+
+		.bsbg3 {
+		/* background: #ffffff; */
+		/* border: 1px solid #c3c6c6; */
+		padding: 6px;
+		}
+
+		/* BSS */
+		/* Размер поля ввода в px (ввод сопротивления) */
+
+		.bsinputpx {
+		width: 96px;
+		}
+
+		/* BSS */
+		/* Отступы для расчёта (ответа) */
+
+		.bsr {
+		padding-top: 6px;
+		padding-bottom: 6px;
+		}
+
+		/* BSS */
+		/* Цвет вопроса */
+
+		.bsrquestion {
+		color: #ff0000;
+		}
+
+		/* BSS */
+		/* Цвет результата (ответа) */
+
+		.bsranswer {
+		color: #007f00;
+		}
+
+		/* --- */
+
+		/* BSS */
+		/* Не показывать стандартный Radio Button */
+
+		.bsradiobutton {
+		display: none;
+		}
+
+		/* BSS */
+		/* Неактивный Radio Button */
+
+		.bsradiobutton + label {
+		background: url("images-calcbs-rb/radio-false.png") no-repeat scroll 0 0;
+		cursor: pointer;
+		padding: 0px 0px 1px 15px;
+		}
+
+		/* BSS */
+		/* Активный Radio Button */
+
+		.bsradiobutton:checked + label {
+		background: url("images-calcbs-rb/radio-true.png") no-repeat scroll 0 0;
+		}
+
+		/* BSS */
+		/* Цвет тексту Radio Button */
+
+		.bs_label_radio {
+		color: #006699;
+		}
+
+		/* BSS */
+		/* При наведении на Radio Button */
+
+		.bs_label_radio:hover{
+		color: #006699;
+		text-decoration: underline;
+		}
+
+		/* BSS */
+		/* Внутренний нижний отступ для Radio Button */
+
+		.bsrbpaddingb {
+		padding-bottom: 1px;
+		}
+
+		/* BSS */
+		/* Внутренний правый отступ для Radio Button */
+
+		.bsrbpaddingr {
+		padding-right: 4px;
+		}
+
+		/* --- */
+
+		/* BSS */
+		/* Модальное окно */
+
+		.bsmodalwin {
+		height: auto; /* Высота окна */
+		width: 860px; /* Ширина окна */
+		border: 3px solid #999999; /* Тощина и цвет рамки */
+		border-radius: 4px;        /* Закругленные края   */
+		background: #ffffff;       /* Фон окна            */
+
+		padding: 12px 12px 12px 12px; /* Внутренние отступы по краям */
+
+		top: 64px; /* Сверху до окна */
+		right: 0;  /* Справа до окна */
+		left: 0;   /* Слева до окна  */
+
+		font-size: 12px; /* Размер шрифта */
+		margin: 0 auto;
+
+		z-index: 2;      /* Поверх всех     */
+		display: none;   /* Сначала невидим */
+		position: fixed; /* Фиксированное позиционирование, окно стабильно при прокрутке */
+		}
+
+			/* BSS */
+			/* При выводе модального окна, затемнение страницы */
+
+			#shadowbs {
+			position: fixed;
+
+			left: 0; /* Затемнение слева  */
+			top: 0;  /* Затемнение сверху */
+
+			width: 100%;  /* По ширине растянуть на весь экран */
+			height: 100%; /* По высоте растянуть на весь экран */
+
+			z-index: 1;          /* Поверх всех, кроме окна */
+			background: #000000; /* Цвет затемнения         */
+			opacity: 0.2;        /* Прозрачность            */
+			}
