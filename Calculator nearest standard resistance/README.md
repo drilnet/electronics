@@ -165,6 +165,18 @@ function SearchE24(R1)
 	return [E24, E24l, E24r];
 }
 ```
+
+**Примечание.**
+<br>
+Если R1 Вы будете получать расчётным путём,
+<br>
+то при передачи R1 в функцию,
+<br>
+сделайте это:
+```JavaScript
+R1 = Number(R1.toFixed(3));
+```
+
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
