@@ -165,3 +165,14 @@ function SearchE24(R1)
 	return [E24, E24l, E24r];
 }
 ```
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
+
+<hr>
+
+<div align="center">
+<a href="https://github.com/drilnet/electronics">
+[ Вернуться в начало репозитория Electronics ]
+</a>
+</div>
+
+<hr>
