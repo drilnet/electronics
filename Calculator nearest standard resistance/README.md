@@ -5,6 +5,8 @@
 
 ## Калькулятор ближайшее стандартное сопротивление (HTML + JS)
 
+Лицензия (License): **Free**.
+
 ![](https://github.com/drilnet/electronics/blob/master/UA.png)
 
 ### Скриншот калькулятора:
