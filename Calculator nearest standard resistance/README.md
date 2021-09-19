@@ -11,7 +11,7 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Calculator%20nearest%20standard%20resistance/Screenshot_2.png "(C) Демидов С.В.")
 
-### Собственно сам алгоритм (наброски):
+### Собственно сам алгоритм (наброски, без блок-схемы):
 
 ```
                                 │        1         │            2            │         3        │
