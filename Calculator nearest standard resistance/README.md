@@ -165,7 +165,7 @@ function SearchE24(R1)
 	return [E24, E24l, E24r];
 }
 ```
-[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В. :)
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
 
