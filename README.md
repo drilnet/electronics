@@ -37,7 +37,7 @@
 <br>
 <a href="https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V"><img src="https://github.com/drilnet/electronics/blob/master/Miniature%205.png" title="Стабилизированный блок питания +5В/1А, -5В/0.3A, +12В/0.5А, -12В/0.5А (нажмите)"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V"><img src="https://github.com/drilnet/electronics/blob/master/Miniature%206.png" title="Ремонт компьютерных колонок Genius SP-G06 (нажмите)"></a>
+<a href="https://github.com/drilnet/electronics/tree/master/Speakers%20Genius%20SP-G06"><img src="https://github.com/drilnet/electronics/blob/master/Miniature%206.png" title="Ремонт компьютерных колонок Genius SP-G06 (нажмите)"></a>
 <br>
 <br>
 <br>
