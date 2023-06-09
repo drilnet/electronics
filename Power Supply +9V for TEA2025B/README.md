@@ -12,7 +12,6 @@
 ### Схема блока питания
 
 ![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/SCH%20-%20Images/PS%207809%20(72dpi)%2C%20720x211.png)
-
 ```
     X1, X2 - Клемники.
        VD1 - KBU608 (диодный мост)
