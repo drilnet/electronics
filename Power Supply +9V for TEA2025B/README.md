@@ -24,3 +24,7 @@ C4, C5, C6 - 680мкФ х 16В
        DA1 - L7809CV
 ```
 В 600dpi: [здесь](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/SCH%20-%20Images/PS%207809%20(600dpi).png)
+
+### Расположение радиодеталей на печатной плате
+
+![]()
