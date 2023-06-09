@@ -13,5 +13,13 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/SCH%20-%20Images/PS%207809%20(72dpi)%2C%20720x211.png)
 
-
-qwerty
+```
+    X1, X2 - Клемники.
+       VD1 - KBU608 (диодный мост)
+  VD2, VD3 - Светодиоды (VD3 на корпус)
+        C1 - 4700мкФ х 35В
+    C2, C3 - 0.1мкФ х 100В
+C4, C5, C6 - 680мкФ х 16В
+    R1, R2 - 820
+        R3 - 2K
+```
