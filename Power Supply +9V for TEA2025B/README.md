@@ -61,3 +61,5 @@ C4, C5, C6 - 680мкФ х 16В
 ### Собранный блок питания
 
 ![](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/Images%20-%20Photo/IMG_(72dpi).png)
+
+Ещё полезная информация: [pdf-файл](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/ps%207809.pdf)
