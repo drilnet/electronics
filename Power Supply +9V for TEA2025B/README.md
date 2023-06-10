@@ -66,4 +66,16 @@ C4, C5, C6 - 680мкФ х 16В
 
 Схема выполнена в редакторе [TinyCAD](https://www.tinycad.net)
 <br>
-Разводка платы - [DesignSpark](https://www.rs-online.com/designspark/home)
+Разводка платы - [DesignSpark PCB](https://www.rs-online.com/designspark/home)
+
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (C) Демидов С.В.
+
+<hr>
+
+<div align="center">
+<a href="https://github.com/drilnet/electronics">
+[ Вернуться в начало репозитория Electronics ]
+</a>
+</div>
+
+<hr>
