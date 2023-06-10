@@ -95,6 +95,10 @@ C4, C5, C6 - 680мкФ х 16В
 <br>
 Подключить библиотеку в [TinyCAD](https://www.tinycad.net/) можно: Library => Add...
 
+Посадочные места радиодеталей для программы [DesignSpark PCB](https://www.rs-online.com/designspark/home) - я не выкладываю!
+<br>
+Перед загрузкой печатной платы в [DesignSpark PCB](https://www.rs-online.com/designspark/home), необходимо установить шрифт Liberation Mono!
+
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (C) Демидов С.В.
 
 <hr>
