@@ -77,6 +77,8 @@ C4, C5, C6 - 680мкФ х 16В
 <br>
 [http://www.kosmodrom.com.ua](http://www.kosmodrom.com.ua)
 
+Мысли в слух: Надо было зашлифовать радиатор!
+
 <hr>
 
 Ещё полезная информация:
