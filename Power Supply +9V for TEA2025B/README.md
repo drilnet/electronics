@@ -87,6 +87,8 @@ C4, C5, C6 - 680мкФ х 16В
 <br>
 Разводка платы - [DesignSpark PCB](https://www.rs-online.com/designspark/home)
 
+Файл: []()
+
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (C) Демидов С.В.
 
 <hr>
