@@ -15,8 +15,6 @@
 <a href="https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B"><img src="https://github.com/drilnet/electronics/blob/master/Miniature%203.png" title="Усилитель звука на микросхеме TEA2025B (нажмите)"></a>
 &nbsp;&nbsp;
 <a href="https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist"><img src="https://github.com/drilnet/electronics/blob/master/Miniature%204.png" title="Ящик для экспонирования ФОТОРЕЗИСТА (нажмите)"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V"><img src="https://github.com/drilnet/electronics/blob/master/Miniature%205.png" title="Стабилизированный блок питания +5В/1А, -5В/0.3A, +12В/0.5А, -12В/0.5А (нажмите)" title="Ящик для экспонирования ФОТОРЕЗИСТА (нажмите)"></a>
 <br>
 ### Список:
 
