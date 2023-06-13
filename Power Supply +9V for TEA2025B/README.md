@@ -84,7 +84,7 @@ C4, C5, C6 - 680мкФ х 16В
 <hr>
 
 Ещё полезная информация:
-* [pdf-файл (схема, печатная плата)](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/ps%207809.pdf "")
+* [pdf-файл (схема, печатная плата)](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/PS_7809.pdf "")
 * [L78_STMicroelectronics (datasheet).pdf](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/L78_STMicroelectronics%20(datasheet).pdf "")
 
 <hr>
