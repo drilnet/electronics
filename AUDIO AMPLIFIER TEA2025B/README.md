@@ -29,7 +29,7 @@
 <br>
 [TEA2025B Ver. 4](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%204) - без источника питания!
 <br>
-[TEA2025B Ver. 5]() - без источника питания!
+[TEA2025B Ver. 5](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205) - без источника питания!
 
 <hr>
 
