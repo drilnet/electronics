@@ -43,6 +43,20 @@
 
 [TEA2025B V5. Схема, печатная плата.pdf](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/TE2025B%20Ver.%205%20(RUS).pdf) - на Русском.
 <br>
-[TEA2025B V5. Схема, печатная плата.pdf](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/TE2025B%20Ver.%205%20(UKR).pdf) - на Украинском.
+[TEA2025B V5. Схема, печатная плата.pdf](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/TE2025B%20Ver.%205%20(UKR).pdf) - на Украинском! :)
+
+<hr>
+
+**Выходная мощность в режиме стерео:**
+
+При 12В,  8 Ом -  2.4Вт на каждый канал
+При  9В,  4 Ом -  2.3Вт на каждый канал
+При  9В,  8 Ом -  1.3Вт на каждый канал
+При  6В,  4 Ом -  1.0Вт на каждый канал
+При  6В,  8 Ом -  0.6Вт на каждый канал
+При  6В, 16 Ом - 0.25Вт на каждый канал
+При  6В, 32 Ом - 0.13Вт на каждый канал
+При  3В,  4 Ом -  0.1Вт на каждый канал
+При  3В, 32 Ом - 0.02Вт на каждый канал
 
 <hr>
