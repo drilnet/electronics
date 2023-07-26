@@ -43,6 +43,8 @@
 
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/Images%20-%20Photo%20Sobrannaya%20Plata/DSCN6740_4%2C%2072dpi%20-%202.png "(C) Демидов С.В.")
 
+Другие изображения, посмотрите [здесь](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/Images%20-%20Photo%20Sobrannaya%20Plata)
+
 <hr>
 
 [TEA2025B V5. Схема, печатная плата, собранная плата.pdf](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/TE2025B%20Ver.%205%20(RUS).pdf) - на Русском.
