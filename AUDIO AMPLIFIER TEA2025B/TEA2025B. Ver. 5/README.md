@@ -39,6 +39,10 @@
 <br>
 Специальную **плёнку** для фотошаблонов или **бумагу** для термопереноса ([технология ЛУТ](https://uk.wikipedia.org/wiki/Лазерно-праскова_технологія "Украинская Википедия")) можно купить [здесь](https://voron.ua/catalog/materials-for-production-and-repair/materials-for-pcb-manufacturing/printer_film)
 
+### Собранная плата:
+
+![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/Images%20-%20Photo%20Sobrannaya%20Plata/DSCN6740_4%2C%2072dpi%20-%202.png "(C) Демидов С.В.")
+
 <hr>
 
 [TEA2025B V5. Схема, печатная плата, собранная плата.pdf](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/TE2025B%20Ver.%205%20(RUS).pdf) - на Русском.
