@@ -89,23 +89,23 @@ C4, C5, C6 - 680мкФ х 16В
 
 <hr>
 
-Схема выполнена в редакторе [TinyCAD](https://www.tinycad.net)
+Схема выполнена в редакторе [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD")
 <br>
-Разводка платы - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software)
+Разводка платы - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software "Перейти на сайт DesignSpark PCB")
 
 Файл: [TinyCADLibrarySt_Power_Supply_+9V.TCLib](https://github.com/drilnet/electronics/blob/master/Power%20Supply%20%2B9V%20for%20TEA2025B/TinyCADLibrarySt_Power_Supply_%2B9V.TCLib)
 <br>
-Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net/)
+Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD")
 <br>
 Использовались при рисовании схемы!
 <br>
-Подключить библиотеку в [TinyCAD](https://www.tinycad.net/) можно: Library => Add...
+Подключить библиотеку в [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD") можно: Library => Add...
 
-Перед загрузкой схемы в редактор [TinyCAD](https://www.tinycad.net/), необходимо установить шрифт Liberation Mono!
+Перед загрузкой схемы в редактор [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD"), необходимо установить шрифт Liberation Mono!
 
-Посадочные места радиодеталей для программы [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - я не выкладываю!
+Посадочные места радиодеталей для программы [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software "Перейти на сайт DesignSpark PCB") - я не выкладываю!
 <br>
-Перед загрузкой печатной платы в [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software), необходимо установить шрифт Liberation Mono!
+Перед загрузкой печатной платы в [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software "Перейти на сайт DesignSpark PCB"), необходимо установить шрифт Liberation Mono!
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (C) Демидов С.В.
 
