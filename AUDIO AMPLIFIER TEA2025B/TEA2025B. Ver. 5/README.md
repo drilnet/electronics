@@ -84,3 +84,33 @@ XS3 (XS) - Это ответная часть к штыревому разъём
 ![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/Images%20-%20TR/DSCN6774_3%2C%2072dpi_2.png)
 
 <hr>
+
+Схема выполнена в редакторе [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD")
+<br>
+Разводка платы - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software "Перейти на сайт DesignSpark PCB")
+
+Файл: []()
+<br>
+Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD")
+<br>
+Использовались при рисовании схемы!
+<br>
+Подключить библиотеку в [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD") можно: Library => Add...
+
+Перед загрузкой схемы в редактор [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD"), необходимо установить шрифт Liberation Mono!
+
+Посадочные места радиодеталей для программы [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software "Перейти на сайт DesignSpark PCB") - я не выкладываю!
+<br>
+Перед загрузкой печатной платы в [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software "Перейти на сайт DesignSpark PCB"), необходимо установить шрифт Liberation Mono!
+
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (C) Демидов С.В.
+
+<hr>
+
+<div align="center">
+<a href="https://github.com/drilnet/electronics">
+[ Вернуться в начало репозитория Electronics ]
+</a>
+</div>
+
+<hr>
