@@ -45,6 +45,12 @@
 
 Другие изображения, посмотрите [здесь](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/Images%20-%20Photo%20Sobrannaya%20Plata)
 
+**Примечание.**
+<br>
+На фото, один динамик подключён неправильно (тот что справа, XS динамика повернуть на 180&#176;)!
+<br>
+:)
+
 <hr>
 
 [TEA2025B V5. Схема, печатная плата, собранная плата.pdf](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/TE2025B%20Ver.%205%20(RUS).pdf) - на Русском.
@@ -66,5 +72,11 @@
 При  3В,  4 Ом -  0.1Вт на каждый канал
 При  3В, 32 Ом - 0.02Вт на каждый канал
 ```
+
+<hr>
+
+Трансформатор (9В, 0.33А, 3Вт) можно купить в интернет-магазине "**Космодром**".
+
+![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/Images%20-%20TR/DSCN6774_3%2C%2072dpi.png)
 
 <hr>
