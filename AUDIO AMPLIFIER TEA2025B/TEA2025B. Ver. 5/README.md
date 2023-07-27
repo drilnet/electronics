@@ -89,7 +89,7 @@ XS3 (XS) - Это ответная часть к штыревому разъём
 <br>
 Разводка платы - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software "Перейти на сайт DesignSpark PCB")
 
-Файл: []()
+Файл: [TinyCADLibrarySt_TEA2025B.TCLib](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/TinyCADLibrarySt_TEA2025B.TCLib)
 <br>
 Условные графические обозначения радиодеталей для программы [TinyCAD](https://www.tinycad.net "Перейти на сайт TinyCAD")
 <br>
