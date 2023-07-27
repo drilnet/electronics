@@ -101,6 +101,8 @@ C4, C5, C6 - 680мкФ х 16В
 <br>
 Подключить библиотеку в [TinyCAD](https://www.tinycad.net/) можно: Library => Add...
 
+Перед загрузкой схемы в редактор [TinyCAD](https://www.tinycad.net/), необходимо установить шрифт Liberation Mono!
+
 Посадочные места радиодеталей для программы [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - я не выкладываю!
 <br>
 Перед загрузкой печатной платы в [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software), необходимо установить шрифт Liberation Mono!
