@@ -81,6 +81,6 @@ XS3 (XS) - Это ответная часть к штыревому разъём
 <br>
 Трансформатор изготовлен в Украине!
 
-![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/Images%20-%20TR/DSCN6774_3%2C%2072dpi.png)
+![](https://github.com/drilnet/electronics/blob/master/AUDIO%20AMPLIFIER%20TEA2025B/TEA2025B.%20Ver.%205/Images%20-%20TR/DSCN6774_3%2C%2072dpi_2.png)
 
 <hr>
